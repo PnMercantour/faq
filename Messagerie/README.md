@@ -1,29 +1,15 @@
-# Questions fréquentes sur la configuration et l'utilisation de la messagerie
+# Outils de messagerie, carnets d'adresse et agendas partagés au Parc National du Mercantour
 
-## Ajouter un agenda en consultation dans Thunderbird
-Dans la colonne de gauche, cliquer sur "Nouvel agenda"
-Choisir "Sur le réseau" puis suivant
-Ne rien inscrire dans "Nom d'utilisateur"
-Dans "Adresse" écrire : https://mail.espaces-naturels.fr/home/prenom.nom@mercantour-parcnational.fr/Calendar.ics
-Cocher la case "Cette adresse ne demande pas d'identifiants ..."
-Cliquer sur "Rechercher des agendas"
-Il apparait m'agenda demandé sous le titre "Agenda"
-Clqiuer sur "Propriétés" afin de le nommer, lui donner la couleur désirée, décocher 'Prise en charge du mode hors connexion" et "Afficher les alarmes"
-Cocher "En lecture seule" puis OK
-Compter une à deux minutes que l'agenda s'affiche
+Ce document explique comment [configurer](#configuration-des-outils-de-messagerie-carnets-dadresse-et-agendas) Zimbra, Thunderbird et les applications mobiles android de votre smartphone pour partager les agendas, carnets d'adresse et les dossiers de messagerie.
 
-## Créer ma signature pour Thunderbird
-Aller sur : http://192.168.80.59/signature
-Renseigner les différents champs, le rendu final s'affiche en-dessous
-Cliquer sur "Générer la signature"
-Elle va se télécharger automatiquement dans "Téléchargements"
-Copier directement celle-ci dans "Documents" et l'effacer dans "Téléchargements"
-Dans Thunderbird, aller dans "Outils" -> "Paramètres des Comptes"
-Sur la première ligne (adresse mail), fenêtre de droite, cocher la case "Apposer la signature ..."
-Puis cliquer sur choisir, l'explorateur Windows s'ouvre, sélectionner la signature et valider.
+D'autre part, l'application http://agenda.mercantour.local est accessible sur le réseau interne ou par le VPN. Cette [application](agenda.mercantour.local/README.md) présente l'agenda de _tous_ les agents et services du Parc, sous une forme expurgée, pour une consultation occasionnelle.
 
-## Thunderbird est lent
-Le nombre important d'agendas en consultation peut en être la cause
-Dans les agendas, clic-droit sur un agenda puis "Propriétés"
-Décocher la case "Prise en charge du mode hors-connexion"
-Cela évite que tou sles agendas ne soient stockés sur le PC et saturent la mémoire de l'ordinateur
+## Configuration des outils de messagerie, carnets d'adresse et agendas
+
+La configuration ne nécessite pas de droits administrateur, vous pouvez donc la réaliser vous-même si cela ne vous rebute pas.  
+Sinon, prenez rendez-vous avec le SI qui réalisera la configuration pour vous (votre présence reste nécessaire, car le SI n'a pas accès à votre mot de passe de messagerie) et vous montrera comment personnaliser vos partages.
+
+Notre serveur de messagerie Zimbra permet de partager les agendas, les carnets d'adresses et les boîtes mail, collectivement appelés `dossiers` par Zimbra.  
+La première étape consiste à configurer le serveur [Zimbra](Zimbra/README.md) pour [partager vos dossiers](Zimbra/README.md#partager-son-agenda-son-carnet-dadresses-sa-boîte-mail) et [accéder aux dossiers partagés par un collègue](Zimbra/README.md#accéder-à-un-agenda-un-carnet-dadresses-ou-une-boîte-mail-partagés-avec-moi).
+
+Après avoir configuré Zimbra, vous pourrez simplement accéder aux partages depuis [Thunderbird](Thunderbird/README.md) ou sur votre [smartphone android](android/README.md).
