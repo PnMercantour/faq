@@ -1,6 +1,6 @@
 # Outils de messagerie, carnets d'adresse et agendas partagés au Parc National du Mercantour
 
-Ce document explique comment [configurer](#configuration-des-outils-de-messagerie-carnets-dadresse-et-agendas) Zimbra, Thunderbird et les applications mobiles android de votre smartphone pour partager les agendas, carnets d'adresse et les dossiers de messagerie.
+Ce document explique comment configurer Zimbra, Thunderbird et les applications mobiles android de votre smartphone pour partager les agendas, carnets d'adresse et les dossiers de messagerie.
 
 D'autre part, l'application http://agenda.mercantour.local est accessible sur le réseau interne ou par le VPN. Cette [application](agenda.mercantour.local/README.md) présente l'agenda de _tous_ les agents et services du Parc, sous une forme expurgée, pour une consultation occasionnelle.
 
