@@ -4,7 +4,7 @@ Questions fréquentes sur le système d'information du Parc national du Mercanto
 
 ## Messagerie
 
-Pour tout savoir sur la configuration de la messagerie, le partage d'agendas et de contacts, c'est [ici](Messagerie/README.md).
+Pour tout savoir sur la [configuration de la messagerie, le partage d'agendas et de contacts](Messagerie/README.md).
 
 ## Geonature
 
