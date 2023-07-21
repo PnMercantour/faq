@@ -8,6 +8,36 @@ Après avoir configuré Zimbra, vous pourrez simplement accéder aux partages de
 - Paramétrer [Thunderbird](../Thunderbird/README.md).
 - Paramétrer votre [smartphone android](../android/README.md).
 
+## Création du compte Zimbra et configuration générale
+
+Votre compte Zimbra ne peut être créé que par un administrateur du SI.  
+C'est aussi l'administrateur de la messagerie qui crée les listes de diffusion, mais il peut ensuite vous en confier la gestion (ajout, suppression, filtrage). Les listes de diffusion auxquelles vous avez accès apparaissent sous l'onglet contact.
+
+Muni de votre identifiant (votre adresse email) et de votre mot de passe Zimbra, connectez-vous à l'application web zimbra pour recevoir et envoyer des messages, gérer les listes de diffusion, gérer et partager vos carnets d'adresse et vos agendas.  
+Ayez le réflexe zimbra web, lorsque vous n'avez pas accès à votre application PC (thunderbird) ou à une application mobile.
+
+Il est important de vérifier que les bonnes options sont cochées dans les préférences de l'application web zimbra
+
+### Préférences générales
+
+Cocher la case _Inclure les éléments partagés dans les recherches_.
+<img src="img/Préférences-Général.png" width="100%" height="30%">
+
+### Préférences des contacts
+
+Cocher les cases _Première étape: explorer la liste GAL_ et _Inclure des adresses de la liste d'adresses globales_. Cette option vous aide à trouver l'adresse de votre correspondant (ou liste) sur le serveur Zimbra en tapant les premières lettres du nom.
+
+Cocher la case _Inclure l'adresse des contacts partagés_ pour que la saisie automatique utilise les [carnets d'adresses partagés avec vous](#accéder-à-un-agenda-un-carnet-dadresses-ou-une-boîte-mail-partagés-avec-moi).
+
+<img src="img/Préférences-Contacts.png" width="100%" height="30%">
+
+### Préférences du calendrier
+
+Cocher la case _Autoriser tous les utilisateurs à consulter mes infos Libre/Occupé_. Cette fonction est utilisée par les planificateurs de réunions (sans donner accès aux données de l'évènement).
+
+En général, vous cocherez également la case _Autoriser tous les utilisateurs à m'inviter à des réunions_.
+<img src="img/Préférences-Calendrier.png" width="100%" height="30%">
+
 ## Partager son agenda, son carnet d'adresses, sa boîte mail
 
 Vous pouvez configurer le partage avec d'autres utilisateurs (ou listes d'utilisateurs) zimbra de votre boîte mail, de votre agenda ou de votre carnet d'adresses.
@@ -27,8 +57,7 @@ L'onglet `Préférences / Partage / Dossiers partagés par moi` vous permet de c
 
 ### Partage à activer impérativement
 
-Il est **nécessaire** de partager votre agenda avec agenda@mercantour-parcnational.fr en lui donnant le rôle de visionneur. Ce partage permet à l'application http://agenda.mercantour.local (sur le réseau interne) d'accéder à votre agenda et de le visualiser sous une forme expurgée (le détail des évènements reste masqué).  
-Par défaut, vos rendez-vous privés ne sont pas consultables.
+Il est **nécessaire** de partager votre agenda avec agenda@mercantour-parcnational.fr en lui donnant le rôle de visionneur. Ce partage permet à l'application http://agenda.mercantour.local (sur le réseau interne) d'accéder à votre agenda et de le visualiser sous une forme expurgée (le titre des évènements publics est révélé, le détail des évènements reste masqué). Vos rendez-vous privés sont entièrement masqués.
 
 ### Partages optionnels
 
@@ -47,7 +76,8 @@ Ces partages ciblés vont permettre à vos collègues d'accéder de façon sécu
 Un collègue a partagé avec vous son agenda, son carnet d'adresses ou sa boîte mail.  
 Voici comment y accéder.
 
-Vous **devez** accepter le partage dans l'appli web zimbra https://mail.espaces-naturels.fr/ pour que ce partage soit automatiquement détecté par vos applications de messagerie/calendrier.
+Vous **devez** accepter le partage dans l'appli web zimbra https://mail.espaces-naturels.fr/ pour que ce partage soit détecté par vos applications de messagerie/calendrier/carnet d'adresses et soit visible également dans les pages mail/contacts et agenda de Zimbra Web.  
+Si vous n'acceptez pas le partage, il n'apparaîtra sur votre application de messagerie/calendrier/carnet d'adresses que si vous saisissez l'URL correspondant au partage (c'est beaucoup plus compliqué).
 
 ### Accepter un partage depuis l'onglet Préférences
 
@@ -78,7 +108,3 @@ Il est important d'accepter l'invitation de partage du carnet d'adresses `Contac
 Vous pouvez également importer l'agenda commun du Parc, partagé par `agenda@mercantour-parcnational.fr`.
 
 Certains services ont mis en place des agendas partagés, des carnets d'adresse partagés de contacts externes, usez et abusez de ces sources d'information.
-
-### Paramétrage des contacts
-
-- Laisser cochée l'option Préférences / Calendrier / Autorisations / Libre/Occupé à sa valeur par défaut (autoriser tous les utilisateurs). Cela permettra à vos interlocuteurs de déterminer si vous êtes disponibles lorsqu'ils planifient un évènement.
