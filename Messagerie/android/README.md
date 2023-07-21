@@ -5,12 +5,15 @@ Il est nécessaire d'installer l'application [DAVx5](#installation-davx5) qui pe
 
 ## Mail
 
-Ouvrez l'application E-mail de votre smartphone.
+Ouvrez l'application E-mail de votre smartphone et configurez votre compte.
 
 Les protocoles IMAP ou Exchange fonctionnent, préférez IMAP pour une nouvelle configuration.
 
 - compte IMAP
 - ou compte Exchange
+
+Votre identifiant est votre adresse email. Votre mot de passe est votre mot de passe Zimbra.  
+Le nom du serveur Zimbra doit être saisi de façon explicite: `mail.espaces-naturels.fr`
 
 ## Installation DAVx5
 
@@ -26,7 +29,7 @@ Lancez f-droid et installez DAVx5.
 
 Il faut d'abord paramétrer DAVx5 pour qu'il se connecte au serveur Zimbra. Ensuite il faut paramétrer les clients de calendrier/contacts (samsung, google, ...) pour qu'ils voient les dossiers (contacts et agendas) proposées par DAVx5.
 
-### Paramétrage DAVx5
+### Configuration de DAVx5
 
 Il suffit de rentrer l'URL du serveur et le compte utilisateur.
 
@@ -34,14 +37,27 @@ Il suffit de rentrer l'URL du serveur et le compte utilisateur.
 
 - L'identifiant de l'utilisateur est son adresse mail.
 
-### Paramétrage agenda/contacts
+DAVx5 va vous proposer une liste d'agendas et de carnets d'adresse. Il s'agit de ceux que vous avez [acceptés de voir dans zimbra mail](../Zimbra/README.md#accéder-à-un-agenda-un-carnet-dadresses-ou-une-boîte-mail-partagés-avec-moi).
+Sélectionnez dans DAVx5 les agendas et carnets d'adresse que vous souhaitez voir sur ce mobile.
 
-Ouvrez l'application mobile d'agenda ou de contacts (google ou samsung) et ajoutez le compte DAVx5 en suivant la procédure propre à cette application.
+### Configuration de l'application agenda/contacts
+
+Ouvrez l'application mobile d'agenda ou de contacts (google ou samsung) et ajoutez le compte DAVx5 (s'il n'est pas visible) en suivant la procédure propre à cette application.
+
+## Utilisation
+
+### Mise à jour de la liste des dossiers
+
+Un collègue vient de partager son agenda avec vous, et vous l'avez accepté dans zimbra mail. Il vous suffit de demander à DAVx5 d'`actualiser la liste des calendriers`.
+
+### Mise à jour des dossiers
+
+Une option de DAVx5 permet de régler la périodicité de mise à jour des calendriers et celle des carnets d'adresse. Il n'est pas utile de mettre à jour les carnets d'adresse plus d'une fois par jour. A tout moment, dans DAVx5, vous pouvez forcer une synchronisation avec le serveur Zimbra.
 
 ## Compatibilité Samsung
 
 Vérifiez que la synchronisation n'est pas bloquée. Les astuces (au lancement de DAVx5 expliquent quoi faire).
 
-Tant qu'on n'a pas acquitté les astuces, elles réapparaissent à chaque utilisation de DAVx5.
+Tant qu'on n'a pas lu toutes les astuces, elles réapparaissent à chaque utilisation sur l'écran de démarrage de DAVx5.
 
-En cas de problème, on peut réinitialiser les astuces déjà acquittées dans `paramètres de l'application / Réinitialiser les astuces`
+En cas de problème, on peut réinitialiser les astuces déjà lues et acquittées dans `paramètres de l'application / Réinitialiser les astuces`
