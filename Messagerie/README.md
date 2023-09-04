@@ -18,7 +18,7 @@ Après avoir configuré Zimbra, vous pourrez simplement accéder aux partages de
 
 ## Configuration et génération de la signature 
 
-Pour configurer sa signature il suffit de se rendre sur l'url suivante : [http://signature.mercantour.local/]
+Pour configurer sa signature il suffit de se rendre sur l'url suivante : http://signature.mercantour.local/
 
 Rédiger votre signature comme bon vous semble en remplissant correctement les cases à remplir et à supprimer les éléments non nécessaire. (numéro de téléphone portable si nul besoin est par exemple)
 Cliquer ensuite sur "Générer la signature" et glisser le fichier télécharger dans "Documents" trouvable dans "Explorateur de fichiers" de Windows.
