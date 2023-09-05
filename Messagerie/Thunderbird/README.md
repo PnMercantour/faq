@@ -121,3 +121,13 @@ Configuration avancée
 - Etendue: Sous-arbre
 - Filtre: `(&(objectclass=person)(mail=\*@mercantour-parcnational.fr))`
 - Méthode d'identification: Kerberos(GSSAPI)
+
+## Configuration et génération de la signature 
+
+Pour configurer sa signature rendez-vous sur l'url suivante : [http://signature.mercantour.local/](http://signature.mercantour.local/)
+
+Rédiger votre signature en remplissant correctement les cases à remplir et à supprimer les éléments non nécessaire. (numéro de téléphone portable si nul besoin est par exemple)
+Cliquer ensuite sur "Générer la signature" et glisser le fichier téléchargé dans "Documents" trouvable dans "Explorateur de fichiers" de Windows.
+
+Se rendre ensuite sur le compte thunderbird où l'on souhaite apporter une signature et naviguer vers "Outils" dans la barre d'outils se trouvant en haut d'écran, puis sur "Paramètres des comptes". Une fois à ce niveau sur la première page, sélectionner "Apposer la signature à partir d'un fichier", puis cliquer sur la case "Choisir" se trouvant directement à droite. Enfin, sélectionner la signature précedémment téléchargée.
+
