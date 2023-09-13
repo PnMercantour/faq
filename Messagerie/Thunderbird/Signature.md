@@ -10,8 +10,10 @@ Cliquez sur `Générer la signature`.
 
 Le fichier signature est téléchargé automatiquement dans le dossier `Téléchargements` de votre PC.
 Il apparait sous la forme "signature_prénom_nom"
+
 ATTENTION ! Ne surtout pas double-cliquer dessus. La signature va s'afficher dans Firefox et sera modifiée par le navigateur.
 Ce qui la rend inutilisable dans Thunderbird.
+
 Copiez/collez ce fichier dans `Documents`. Puis supprimez-le des téléchargements.
 
 Dans Thunderbird, cliquez sur `Outils puis Paramètres des comptes`.
