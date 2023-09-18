@@ -20,3 +20,5 @@ Dans Thunderbird, cliquez sur `Outils puis Paramètres des comptes`.
 
 Sur la première ligne (adresse mail), fenêtre de droite, cochez la case `Apposer la signature ...`
 Puis cliquez sur `choisir`, l'explorateur Windows s'ouvre, sélectionnez la signature et validez.
+
+En dernier lieu, se rendre à nouveau vers "Outils" dans la barre d'outils, puis sur "Paramètres". Ensuite, cliquer sur l'onglet "Vie privée et sécurité", cocher la case "Autoriser le contenu distant dans les messages" et cliquer sur "Exceptions". Renseigner dans "Adresse du site web" : *@mercantour-parcnational.fr puis "Autoriser", enfin, cliquer sur "Enregistrer les modifications".
