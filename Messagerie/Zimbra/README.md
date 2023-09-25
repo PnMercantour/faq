@@ -35,6 +35,8 @@ Cocher la case _Inclure l'adresse des contacts partagés_ pour que la saisie aut
 
 Cocher la case _Autoriser tous les utilisateurs à consulter mes infos Libre/Occupé_. Cette fonction est utilisée par les planificateurs de réunions (sans donner accès aux données de l'évènement).
 
+Décocher impérativement la case _Autoriser la délégation pour les clients Apple Ical Caldav_ sinon vous ne verrez pas vos agendas dans thunderbird.
+
 En général, vous cocherez également la case _Autoriser tous les utilisateurs à m'inviter à des réunions_.
 <img src="img/Préférences-Calendrier.png" width="100%" height="30%">
 
