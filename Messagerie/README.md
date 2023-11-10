@@ -3,7 +3,6 @@
 Ce document explique comment configurer Zimbra, Thunderbird et les applications mobiles android de votre smartphone pour partager les agendas, carnets d'adresse (et même les dossiers de messagerie).
 
 L'application web http://agenda.mercantour.local , accessible sur le réseau interne ou via le VPN, vous permet de consulter sans configuration préalable les agendas de  _tous_ les agents et services du Parc, sous une forme expurgée. Cet outil est utile pour une recherche ponctuelle, ou pour consulter rapidement l'agenda du jour, de la semaine ou du mois de tous les membres d'un service.  
-Cette application remplace l'ancien agenda partagé http://192.168.80.14/agenda/ qui ne peut pas fonctionner dans un environnement sécurisé.
 Pour en savoir plus : l'[application agenda](agenda.mercantour.local/README.md) 
 
 ## Configuration des outils de messagerie, carnets d'adresse et agendas
