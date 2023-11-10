@@ -23,6 +23,9 @@ L'annuaire permet de sélectionner des agents:
   
 - ou par leur service (cliquer sur un service, puis cliquer sur `tous les agents du service` ou sur des agents en particulier.
 
+## Je ne vois pas mon nom dans la liste (ou bien dans un autre service que le mien).
+Ce n'est pas normal. Merci de contacter le SI pour qu'il mette à jour l'annuaire.
+
 ## Mon nom est dans la liste, mais mes évènements n'apparaissent pas
 C'est probablement parce que vous n'avez pas partagé votre agenda Zimbra avec l'application. La procédure de partage est décrite [ici](../Zimbra/README.md#partage-à-activer-impérativement). Merci de l'appliquer ou de demander l'aide du SI.
 
