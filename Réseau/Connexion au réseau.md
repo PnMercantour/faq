@@ -1,1 +1,1 @@
-Connexion au réseau inforamtique du siège
+Connexion au réseau Wifi du siège
