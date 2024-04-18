@@ -3,7 +3,7 @@
 Deux réseaux apparaissent : pnm-utilisateurs et pnm-visiteurs
 
 ## Pour se connecter au réseau pnm-utilisateurs :  
-- Windows 10 :
+- Windows 10 :  
   Afficher les réseaux wifi ( logo de planète ou wifi en bas à droite ), si l'ordinateur est connecté à "mercantour" se déconnecter et s'assurer que "Se connecter automatiquement" est décoché
   
   Sélectionner dans la liste pnm-utilisateurs  
@@ -14,7 +14,7 @@ Deux réseaux apparaissent : pnm-utilisateurs et pnm-visiteurs
   Cliquer sur "OK"  
   Cliquer sur "Se connecter"  
   
-- Windows 11
+- Windows 11  
   Cliquer sur le logo de planète (ou wifi) en bas à droite, une fenêtre s'affiche avec, en haut à gauche de celle-ci, le wifi  
   Cliquer sur la flèche-droite du wifi, les réseaux s'affichent.  
   Si "mercantour" est connecté, se déconnecter et s'assurer que "Se connecter automatiquement" est décoché  
