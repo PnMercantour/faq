@@ -1,8 +1,8 @@
 # Connexion au réseau Wifi du siège
 
 Deux réseaux apparaissent : pnm-utilisateurs et pnm-visiteurs  
-IMPORTANT : l'usage du réseau pnm-utilisateurs est strictement réservé aux ordinateurs et mobiles de l'établissement  
-Pour l'utilisation de vos matériels personnels, ou ceux de vos invités, seul le réseau pnm-visiteurs est à utiliser
+IMPORTANT : l'usage du réseau pnm-utilisateurs est strictement réservé aux ordinateurs et mobiles de l'établissement.  
+Pour l'utilisation de vos matériels personnels, ou ceux de vos invités, seul le réseau pnm-visiteurs est à utiliser.
 
 ## Pour se connecter au réseau pnm-utilisateurs :  
 - Windows 10  
