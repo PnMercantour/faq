@@ -65,7 +65,7 @@ Installer Zoom depuis le playstore google
 
 ### Geonature
 
-[Installation et configuration d'occtax mobile](geonature/README.md#Occtax-mobile)
+[Installation et configuration d'occtax mobile](geonature/README.md#occtax-mobile)
 
 ### Geopred
 
