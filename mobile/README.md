@@ -51,6 +51,11 @@ Le cas échéant,
 - désinstaller les applications non essentielles qui encombrent la mémoire de stockage.
 - désinstaller puis réinstaller les applications essentielles qui encombrent la mémoire de stockage (certaines applications conservent des fichiers inutiles dans leur espace réservé).
 
+Plusieurs utilisateurs ont constaté que l'application e-mail utilise beaucoup d'espace de stockage (jusqu'à plusieurs gigaoctets). Pour résoudre ce problème:
+
+- stocker les pièces jointes sur la carte SD (si vous en avez une), il y a un paramètre pour cela.
+- pour effacer les messages déjà stockés en mémoire, désactiver puis [réactiver le compte mail](../Messagerie/android/README.md#mail).
+
 - Sélectionner **Mémoire** pour examiner l'utilisation de la mémoire.
 
 ## Applications
