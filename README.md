@@ -10,6 +10,10 @@ Questions fréquentes sur le système d'information du Parc national du Mercanto
 
 Pour tout savoir sur la [configuration de la messagerie, le partage d'agendas et de contacts et l'application interne d'agenda partagé](Messagerie/README.md).
 
+## Zoom
+
+[Procédure de connexion aux services Zoom](Messagerie/Zoom/README.md).
+
 ## Mon téléphone mobile
 
 [Guide de maintenance du téléphone mobile](mobile/README.md)
