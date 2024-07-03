@@ -19,7 +19,7 @@ Le nom du serveur Zimbra doit être saisi de façon explicite: `mail.espaces-nat
 
 _N'hésitez pas à faire appel au SI pour installer les applications sur votre smartphone professionnel._
 
-Installez f-droid https://f-droid.org/F-Droid.apk . [f-droid(https://f-droid.org)] est un magasin d'applications libres, distinct du play store de google. De ce fait, l'installation est un peu plus complexe et réservée aux utilisateurs avertis.
+Installez f-droid https://f-droid.org/F-Droid.apk . [f-droid](https://f-droid.org) est un magasin d'applications libres, distinct du play store de google. De ce fait, l'installation est un peu plus complexe et réservée aux utilisateurs avertis.
 
 Installation manuelle de f-droid, google play protect doit être désactivé pour autoriser l'installation.
 
@@ -53,6 +53,21 @@ Un collègue vient de partager son agenda avec vous, et vous l'avez accepté dan
 ### Mise à jour des dossiers
 
 Une option de DAVx5 permet de régler la périodicité de mise à jour des calendriers et celle des carnets d'adresse. Il n'est pas utile de mettre à jour les carnets d'adresse plus d'une fois par jour. A tout moment, dans DAVx5, vous pouvez forcer une synchronisation avec le serveur Zimbra.
+
+### Mise à jour des données
+
+Les évènements des calendriers se mettent à jour automatiquement.
+
+Il devrait en aller de même pour les contacts... sauf que parfois la synchronisation des contacts ne fonctionne pas bien.  
+Il est donc recommandé de forcer la resynchronisation des carnets d'adresse de temps en temps :
+
+- ouvrir DAVx5
+- ouvrir l'onglet `Carnets d'adresses`
+- décocher la liste à synchroniser (par exemple `Contacts de agents`)
+- synchroniser (le bouton de synchro est en bas à droite) pour effacer la liste du téléphone
+- recocher la liste précédemment décochée pour charger les données à jour sur le téléphone
+
+Chaque fiche de `Contacts de agents` contient une indication de l'origine du contact: Annuaire PNM, et de la date de mise à jour de l'annuaire. Cela permet d'identifier les défauts de synchronisation ou les fiches à corriger (merci de contacter le SI).
 
 ## Compatibilité Samsung
 
