@@ -1,4 +1,4 @@
-site_name: Documentation et Tutos sur les donnees geographiques du Parc national du Mercantour
+site_name: FAQ à destination des agens du parc national du mercantour
 theme:
   name: material
   features:
@@ -50,10 +50,7 @@ markdown_extensions:
  #     emoji_generator: !!python/name:materialx.emoji.to_svg
 
 exclude_docs: |
-  /tutos/git.md
-  */_modele.md
-  */resume_formation.md
-  */Surveillance_TourdeFrance.md
+
 
 
 extra_css:
