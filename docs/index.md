@@ -1,4 +1,10 @@
-# FAQ
+---
+title: Page d'Accueil
+hide:
+  - path
+  - toc
+  - navigation
+---
 
 Questions fréquentes sur le système d'information du Parc national du Mercantour
 
@@ -27,7 +33,7 @@ Ce guide vous explique comment résoudre en quelques minutes les problèmes cour
 
 ## Resana
 
-[Utilisation de l'environnement de partage de documents / édition partagée Resana](./Resana/README.md).
+[Utilisation de l'environnement de partage de documents / édition partagée Resana](./resana/README.md).
 
 ## Formulaires
 
