@@ -1,4 +1,4 @@
-# Resana
+# Problèmes rencontrés sur Resana
 
 ## Les commentaires n'apparaissent pas dans un fichier géré par la plateforme resana
 L'éditeur de fichiers intégré à la plateforme resana ne sait pas interpréter les commentaires dans les fichiers au format docx.  

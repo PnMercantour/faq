@@ -24,13 +24,13 @@ puis sélectionner et éditer le taxon enregistré. Si le bouton `modifier ce ta
 
 occtax2 (icone vert foncé) est une nouvelle version d'occtax mobile qui coexiste avec les versions de sync et d'occtax (icone vert plus clair) actuellement en service.
 
-occtax2 est relié à un nouveau Geonature https://geonature.mercantour.eu/geonature qui remplace progressivement l'ancien serveur https://geonature.mercantour-parcnational.fr .
+occtax2 est relié à un nouveau Geonature [https://geonature.mercantour.eu/geonature](https://geonature.mercantour.eu/geonature) qui remplace progressivement l'ancien serveur [https://geonature.mercantour-parcnational.fr](https://geonature.mercantour-parcnational.fr) .
 
 Pour installer occtax2:
 
-- Télécharger l'application depuis https://geonature.mercantour.eu/geonature/api/media/mobile/occtax/occtax-2.6.2-generic-release.apk par exemple en sélectionnant le lien depuis le navigateur de votre mobile et en sauvegardant le téléchargement du fichier apk.
+- Télécharger l'application depuis [https://geonature.mercantour.eu/geonature/api/media/mobile/occtax/occtax-2.6.2-generic-release.apk](https://geonature.mercantour.eu/geonature/api/media/mobile/occtax/occtax-2.6.2-generic-release.apk) par exemple en sélectionnant le lien depuis le navigateur de votre mobile et en sauvegardant le téléchargement du fichier apk.
 - Installer l'application sur le mobile.
-- Lancer l'application en indiquant https://geonature.mercantour.eu/geonature comme URL de Geonature dans les paramètres.
+- Lancer l'application en indiquant [https://geonature.mercantour.eu/geonature](https://geonature.mercantour.eu/geonature) comme URL de Geonature dans les paramètres.
 - Se connecter (avec votre identifiant et mot de passe Geonature). Si vous ne parvenez pas à vous connecter, c'est que vous n'avez pas les droits. Contacter un référent Geonature (CGP) ou le SI pour que les droits nécessaires vous soient attribués.
 - Réouvrir les paramètres en indiquant le jeu de données par défaut parmi les jeux de données proposés et l'observateur par défaut (vous).
 

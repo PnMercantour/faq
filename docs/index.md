@@ -33,7 +33,7 @@ Ce guide vous explique comment résoudre en quelques minutes les problèmes cour
 
 ## Resana
 
-[Utilisation de l'environnement de partage de documents / édition partagée Resana](./resana/README.md).
+[Utilisation de l'environnement de partage de documents / édition partagée Resana](./resana).
 
 ## Formulaires
 

@@ -27,7 +27,7 @@ L'annuaire permet de sélectionner des agents:
 Ce n'est pas normal. Merci de contacter le SI pour qu'il mette à jour l'annuaire.
 
 ## Mon nom est dans la liste, mais mes évènements n'apparaissent pas
-C'est probablement parce que vous n'avez pas partagé votre agenda Zimbra avec l'application. La procédure de partage est décrite [ici](../Zimbra/README.md#partage-à-activer-impérativement). Merci de l'appliquer ou de demander l'aide du SI.
+C'est probablement parce que vous n'avez pas partagé votre agenda Zimbra avec l'application. La procédure de partage est décrite [ici](./Zimbra.md#partage-à-activer-impérativement). Merci de l'appliquer ou de demander l'aide du SI.
 
 ## Je vois apparaître des évènements privés
 C'est probablement parce que vous n'avez pas enregistré l'évènement comme privé. L'application ne voit que ce que vous avez partagé, et n'en affiche qu'une partie.
