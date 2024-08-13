@@ -18,7 +18,7 @@ Pour tout savoir sur la [configuration de la messagerie, le partage d'agendas et
 
 ## Zoom
 
-[Procédure de connexion aux services Zoom](./messagerie/Zoom/README.md).
+[Procédure de connexion aux services Zoom](./messagerie/Zoom.md).
 
 ## Mon téléphone mobile
 

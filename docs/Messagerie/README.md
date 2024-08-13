@@ -3,7 +3,7 @@
 Ce document explique comment configurer Zimbra, Thunderbird et les applications mobiles android de votre smartphone pour partager les agendas, carnets d'adresse (et même les dossiers de messagerie) et se connecter à Zoom.
 
 L'application web http://agenda.mercantour.local , accessible sur le réseau interne ou via le VPN, vous permet de consulter sans configuration préalable les agendas de _tous_ les agents et services du Parc, sous une forme expurgée. Cet outil est utile pour une recherche ponctuelle, ou pour consulter rapidement l'agenda du jour, de la semaine ou du mois de tous les membres d'un service.  
-Pour en savoir plus : l'[application agenda](agenda.mercantour.local/README.md)
+Pour en savoir plus : l'[application agenda](./agenda_mercantour_local.md)
 
 ## Configuration des outils de messagerie, carnets d'adresse et agendas
 
@@ -11,9 +11,9 @@ La configuration ne nécessite pas de droits administrateur, vous pouvez donc la
 Sinon, prenez rendez-vous avec le SI qui réalisera la configuration pour vous (votre présence reste nécessaire, car le SI n'a pas accès à votre mot de passe de messagerie) et vous montrera comment personnaliser vos partages.
 
 Notre serveur de messagerie Zimbra permet de partager les agendas, les carnets d'adresses et les boîtes mail, collectivement appelés `dossiers` par Zimbra.  
-La première étape consiste à configurer le serveur [Zimbra](Zimbra/README.md) pour [partager vos dossiers](Zimbra/README.md#partager-son-agenda-son-carnet-dadresses-sa-boîte-mail) et [accéder aux dossiers partagés par un collègue](Zimbra/README.md#accéder-à-un-agenda-un-carnet-dadresses-ou-une-boîte-mail-partagés-avec-moi).
+La première étape consiste à configurer le serveur [Zimbra](Zimbra/README.md) pour [partager vos dossiers](Zimbra.md#partager-son-agenda-son-carnet-dadresses-sa-boîte-mail) et [accéder aux dossiers partagés par un collègue](Zimbra.md#accéder-à-un-agenda-un-carnet-dadresses-ou-une-boîte-mail-partagés-avec-moi).
 
-Après avoir configuré Zimbra, vous pourrez simplement accéder aux partages depuis [Thunderbird](Thunderbird/README.md) ou sur votre [smartphone android](android/README.md).
+Après avoir configuré Zimbra, vous pourrez simplement accéder aux partages depuis [Thunderbird](Thunderbird.md) ou sur votre [smartphone android](android.md).
 
 ## Configuration et génération de la signature
 
@@ -28,4 +28,4 @@ En dernier lieu, se rendre à nouveau vers "Outils" dans la barre d'outils, puis
 
 ## Services Zoom
 
-[Procédure de connexion à Zoom et services associés.](Zoom/README.md)
+[Procédure de connexion à Zoom et services associés.](./Zoom.md)
