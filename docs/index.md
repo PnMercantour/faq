@@ -4,19 +4,19 @@ Questions fréquentes sur le système d'information du Parc national du Mercanto
 
 ## Wifi
 
-[Procédure de connexion aux réseaux Wifi du siège](Réseau/README.md)
+[Procédure de connexion aux réseaux Wifi du siège](./reseau/README.md)
 
 ## Messagerie
 
-Pour tout savoir sur la [configuration de la messagerie, le partage d'agendas et de contacts et l'application interne d'agenda partagé](Messagerie/README.md).
+Pour tout savoir sur la [configuration de la messagerie, le partage d'agendas et de contacts et l'application interne d'agenda partagé](./messagerie/README.md).
 
 ## Zoom
 
-[Procédure de connexion aux services Zoom](Messagerie/Zoom/README.md).
+[Procédure de connexion aux services Zoom](./messagerie/Zoom/README.md).
 
 ## Mon téléphone mobile
 
-[Guide de maintenance du téléphone mobile](mobile/README.md)
+[Guide de maintenance du téléphone mobile](./mobile/README.md)
 
 Votre smartphone fonctionne mal, votre mémoire est saturée?
 Ce guide vous explique comment résoudre en quelques minutes les problèmes courants.
@@ -27,7 +27,7 @@ Ce guide vous explique comment résoudre en quelques minutes les problèmes cour
 
 ## Resana
 
-[Utilisation de l'environnement de partage de documents / édition partagée Resana](Resana/README.md).
+[Utilisation de l'environnement de partage de documents / édition partagée Resana](./Resana/README.md).
 
 ## Formulaires
 
@@ -36,4 +36,4 @@ https://formulaires.ofb.fr/fonctionnalites
 
 ## Geonature
 
-[FAQ de Geonature et d'Occtax mobile](geonature/README.md).
+[FAQ de Geonature et d'Occtax mobile](./geonature/README.md).
