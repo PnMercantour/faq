@@ -19,14 +19,14 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Mode Sombre
-      primary: teal
+      primary: light blue
       accent: purple 
     - scheme: slate 
       toggle:
         icon: material/toggle-switch
         name: Mode Clair
-      primary: teal
-      accent: lime
+      primary: light blue
+      accent: purple
 
 plugins:
   - search
