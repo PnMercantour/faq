@@ -21,7 +21,7 @@ Il est important de vérifier que les bonnes options sont cochées dans les pré
 ### Préférences générales
 
 Cocher la case _Inclure les éléments partagés dans les recherches_.
-<img src="img/Préférences-Général.png" width="100%" height="30%">
+![](../img/Préférences-Général.png)
 
 ### Préférences des contacts
 
@@ -29,7 +29,7 @@ Cocher les cases _Première étape: explorer la liste GAL_ et _Inclure des adres
 
 Cocher la case _Inclure l'adresse des contacts partagés_ pour que la saisie automatique utilise les [carnets d'adresses partagés avec vous](#accéder-à-un-agenda-un-carnet-dadresses-ou-une-boîte-mail-partagés-avec-moi).
 
-<img src="img/Préférences-Contacts.png" width="100%" height="30%">
+![](../img/Préférences-Contacts.png)
 
 ### Préférences du calendrier
 
@@ -38,7 +38,7 @@ Cocher la case _Autoriser tous les utilisateurs à consulter mes infos Libre/Occ
 Décocher impérativement la case _Autoriser la délégation pour les clients Apple Ical Caldav_ sinon vous ne verrez pas vos agendas dans thunderbird.
 
 En général, vous cocherez également la case _Autoriser tous les utilisateurs à m'inviter à des réunions_.
-<img src="img/Préférences-Calendrier.png" width="100%" height="30%">
+![](../img/Préférences-Calendrier.png)
 
 ## Partager son agenda, son carnet d'adresses, sa boîte mail
 
@@ -49,11 +49,11 @@ Le paramétrage des partages doit être réalisé dans l'appli web zimbra https:
 - dans l'onglet `Préférences / Partage`,
 - ou dans l'onglet `Mail, Contacts, Calendrier` en sélectionnant (clic droit) le calendrier, le carnet d'adresses ou le dossier de mail à partager.
 
-<img src="img/partage.png" width="50%" height="30%">
+![](img/partage.png)
 
 ### Gérer les partages actifs
 
-<img src="img/mes_partages.png" width="70%" height="30%">
+![](../img/mes_partages.png)
 
 L'onglet `Préférences / Partage / Dossiers partagés par moi` vous permet de contrôler les partages actifs, de modifier les droits ou de révoquer un partage.
 
@@ -85,7 +85,7 @@ Si vous n'acceptez pas le partage, il n'apparaîtra sur votre application de mes
 
 Ouvrez l'onglet `Préférences / Partage` ou vous trouverez la section `Dossiers partagés avec moi mais que je n'ai pas encore acceptés` et celle des `Dossiers partagés et déjà acceptés`
 
-<img src="img/partage_avec_moi.png" width="70%" height="30%">
+![](../img/partage_avec_moi.png)
 
 Vous verrez les dossiers partagés avec vous `dans le cadre d'une liste de distribution`.
 
