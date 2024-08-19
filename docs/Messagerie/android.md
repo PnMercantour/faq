@@ -37,7 +37,7 @@ Il suffit de rentrer l'URL du serveur et le compte utilisateur.
 
 - L'identifiant de l'utilisateur est son adresse mail.
 
-DAVx5 va vous proposer une liste d'agendas et de carnets d'adresse. Il s'agit de ceux que vous avez [acceptés de voir dans zimbra mail](../Zimbra/README.md#accéder-à-un-agenda-un-carnet-dadresses-ou-une-boîte-mail-partagés-avec-moi).
+DAVx5 va vous proposer une liste d'agendas et de carnets d'adresse. Il s'agit de ceux que vous avez [acceptés de voir dans zimbra mail](../Zimbra.md#accéder-à-un-agenda-un-carnet-dadresses-ou-une-boîte-mail-partagés-avec-moi).
 Sélectionnez dans DAVx5 les agendas et carnets d'adresse que vous souhaitez voir sur ce mobile.
 
 ### Configuration de l'application agenda/contacts
