@@ -50,16 +50,16 @@ Pour se désabonner d'un agenda, clic droit sur l'agenda et `se désabonner de l
 La création d'un agenda est accessible depuis l'onglet `agenda` (en cliquant sur le bouton `+` au dessus des agendas) ou via le raccourci `fichier / Nouveau / Agenda`
 
 Sélectionnez l'option réseau.  
-![](img/agenda_network.png)
+![](../img/agenda_network.png)
 
 Entrez votre email et l'adresse du serveur mail.espaces-naturels.fr.  
-![](img/agenda_credentials.png)
+![](../img/agenda_credentials.png)
 
 Entrez votre mot passe zimbra.  
-![](img/password_prompt.png)
+![](../img/password_prompt.png)
 
 Une fenêtre apparaît avec la liste de vos agendas personnels ou partagés avec vous par d'autres utilisateurs et préalablement [acceptés](../Zimbra/README.md) dans l'appli web zimbra.  
-![](img/agenda_chooser.png)
+![](../img/agenda_chooser.png)
 
 Votre agenda principal s'appelle `calendar`.
 
@@ -84,16 +84,16 @@ Evitez donc, autant que possible, de définir des évènements récurrents ou de
 ## Carnets d'adresses
 
 Pour vous connecter à un carnet d'adresses réseau, ouvrez l'onglet `Carnet d'adresses`, cliquez sur la flèche à droite de `Nouveau carnet d'adresses` et sélectionner CARDDAV dans le menu déroulant).  
-![](img/new_contact.png)
+![](../img/new_contact.png)
 
 Entrez votre adresse mail et l'url du serveur Zimbra https://espaces-naturels.fr/dav (ne pas oublier dav, par contre l'entête https est optionnel, comme pour les agendas).  
-![](img/contacts_credentials.png)
+![](../img/contacts_credentials.png)
 
 Entrez votre mot passe zimbra.  
-![](img/password_prompt.png)
+![](../img/password_prompt.png)
 
 Sélectionnez les carnets d'adresse à importer.  
-![](img/contacts_chooser.png)
+![](../img/contacts_chooser.png)
 Votre carnet d'adresses principal s'appelle `Contacts`, zimbra gère automatiquement le carnet d'adresses `Emailed Contacts` en inspectant les mails reçus et envoyés.  
 D'autres carnets d'adresses peuvent être proposés s'ils ont été partagés par leur propriétaire et [acceptés](../Zimbra/README.md) dans l'appli web zimbra.
 
