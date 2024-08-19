@@ -1,6 +1,8 @@
 # FAQ
 
 Questions fréquentes sur le système d'information du Parc national du Mercantour
+Cette page sert à construire la documentation qui est affichée sur le site: https://pnmercantour.github.io/faq
+
 
 ## Wifi
 
