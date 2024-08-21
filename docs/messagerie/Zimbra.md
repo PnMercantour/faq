@@ -49,7 +49,7 @@ Le paramétrage des partages doit être réalisé dans l'appli web zimbra https:
 - dans l'onglet `Préférences / Partage`,
 - ou dans l'onglet `Mail, Contacts, Calendrier` en sélectionnant (clic droit) le calendrier, le carnet d'adresses ou le dossier de mail à partager.
 
-![](img/partage.png)
+![](../img/partage.png)
 
 ### Gérer les partages actifs
 

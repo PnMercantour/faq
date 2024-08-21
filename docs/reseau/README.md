@@ -10,10 +10,8 @@ Cette connexion vous donne accès aux serveurs de fichiers, aux applications int
 Vous devrez vous authentifier avec votre identifiant Windows.  
 N'utilisez ce réseau qu'avec des ordinateurs et mobiles de l'établissement.
 
-- Windows 10
-
+### Windows 10
   - Afficher les réseaux wifi ( logo de planète ou wifi en bas à droite ), si l'ordinateur est connecté à "mercantour" se déconnecter et s'assurer que "Se connecter automatiquement" est décoché
-
   - Sélectionner dans la liste pnm-utilisateurs
   - Laisser cochée la case "se connecter automatiquement"
   - Cliquer sur "se connecter"
@@ -22,7 +20,7 @@ N'utilisez ce réseau qu'avec des ordinateurs et mobiles de l'établissement.
   - Cliquer sur "OK"
   - Cliquer sur "Se connecter"
 
-- Windows 11
+### Windows 11
   - Cliquer sur le logo de planète (ou wifi) en bas à droite, une fenêtre s'affiche avec, en haut à gauche de celle-ci, le wifi
   - Cliquer sur la flèche-droite du wifi, les réseaux s'affichent.
   - Si "mercantour" est connecté, se déconnecter et s'assurer que "Se connecter automatiquement" est décoché
