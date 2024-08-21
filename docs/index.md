@@ -6,7 +6,8 @@ hide:
   - navigation
 ---
 
-Questions fréquentes sur le système d'information du Parc national du Mercantour
+Questions fréquentes sur le système d'information du Parc national du Mercantour.
+Cette page est exclusivement destinée aux agents du Parc national du Mercantour.
 
 ## Wifi
 
