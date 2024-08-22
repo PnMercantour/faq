@@ -7,8 +7,12 @@ hide:
 ---
 
 Questions fréquentes sur le système d'information du Parc national du Mercantour.
-Cette page est exclusivement destinée aux agents du Parc national du Mercantour, si vous êtes un visiteur souhaitez obtenir des informations ou données vous pouvez nous contacter via: 
+Cette page est exclusivement destinée aux agents du Parc national du Mercantour, si vous êtes un visiteur et souhaitez obtenir des informations ou données vous pouvez nous contacter via: 
 [https://www.mercantour-parcnational.fr/fr/formulaire-contact](https://www.mercantour-parcnational.fr/fr/formulaire-contact)
+
+
+## Base de données
+La documentation disponible sur les données internes du Parc national du Mercantour est accessible ici: [https://pnmercantour.github.io/donnees/bd_pnm/](https://pnmercantour.github.io/donnees/bd_pnm/)
 
 
 ## Formulaires
@@ -35,6 +39,9 @@ Ce guide vous explique comment résoudre en quelques minutes les problèmes cour
 - mises à jour
 - optimisation de la mémoire
 - installation d'applications
+
+# QGIS
+Les tutos QGIS du parc sont accessibles ici : [https://pnmercantour.github.io/donnees/tutos/](https://pnmercantour.github.io/donnees/tutos/)
 
 ## Resana
 

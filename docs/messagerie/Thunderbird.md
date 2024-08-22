@@ -86,7 +86,7 @@ Evitez donc, autant que possible, de définir des évènements récurrents ou de
 Pour vous connecter à un carnet d'adresses réseau, ouvrez l'onglet `Carnet d'adresses`, cliquez sur la flèche à droite de `Nouveau carnet d'adresses` et sélectionner CARDDAV dans le menu déroulant).  
 ![](../img/new_contact.png)
 
-Entrez votre adresse mail et l'url du serveur Zimbra https://espaces-naturels.fr/dav (ne pas oublier dav, par contre l'entête https est optionnel, comme pour les agendas).  
+Entrez votre adresse mail et l'url du serveur Zimbra [https://espaces-naturels.fr/dav](https://espaces-naturels.fr/dav) (ne pas oublier dav, par contre l'entête https est optionnel, comme pour les agendas).  
 ![](../img/contacts_credentials.png)
 
 Entrez votre mot passe zimbra.  

@@ -2,7 +2,7 @@
 
 Une application interne au Parc permet de construire le fichier signature (logo du Parc et vos coordonnées) à apposer à la fin de vos messages envoyés.
 
-Allez sur le serveur http://signature.mercantour.local (depuis le réseau interne).
+Allez sur le serveur [http://signature.mercantour.local](http://signature.mercantour.local) (depuis le réseau interne).
 
 Renseignez les différents champs, le rendu final s'affiche en-dessous. A noter : il est préférable de mettre le nom en majuscules.
 

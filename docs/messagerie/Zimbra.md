@@ -59,7 +59,7 @@ L'onglet `Préférences / Partage / Dossiers partagés par moi` vous permet de c
 
 ### Partage à activer impérativement
 
-Il est **nécessaire** de partager votre agenda avec agenda@mercantour-parcnational.fr en lui donnant le rôle de visionneur. Ce partage permet à l'application http://agenda.mercantour.local (sur le réseau interne) d'accéder à votre agenda et de le visualiser sous une forme expurgée (le titre des évènements publics est révélé, le détail des évènements reste masqué). Vos rendez-vous privés sont entièrement masqués.
+Il est **nécessaire** de partager votre agenda avec agenda@mercantour-parcnational.fr en lui donnant le rôle de visionneur. Ce partage permet à l'application [http://agenda.mercantour.local](http://agenda.mercantour.local) (sur le réseau interne) d'accéder à votre agenda et de le visualiser sous une forme expurgée (le titre des évènements publics est révélé, le détail des évènements reste masqué). Vos rendez-vous privés sont entièrement masqués.
 
 ### Partages optionnels
 
@@ -78,7 +78,7 @@ Ces partages ciblés vont permettre à vos collègues d'accéder de façon sécu
 Un collègue a partagé avec vous son agenda, son carnet d'adresses ou sa boîte mail.  
 Voici comment y accéder.
 
-Vous **devez** accepter le partage dans l'appli web zimbra https://mail.espaces-naturels.fr/ pour que ce partage soit détecté par vos applications de messagerie/calendrier/carnet d'adresses et soit visible également dans les pages mail/contacts et agenda de Zimbra Web.  
+Vous **devez** accepter le partage dans l'appli web zimbra [https://mail.espaces-naturels.fr/](https://mail.espaces-naturels.fr/) pour que ce partage soit détecté par vos applications de messagerie/calendrier/carnet d'adresses et soit visible également dans les pages mail/contacts et agenda de Zimbra Web.  
 Si vous n'acceptez pas le partage, il n'apparaîtra sur votre application de messagerie/calendrier/carnet d'adresses que si vous saisissez l'URL correspondant au partage (c'est beaucoup plus compliqué).
 
 ### Accepter un partage depuis l'onglet Préférences
@@ -90,7 +90,7 @@ Ouvrez l'onglet `Préférences / Partage` ou vous trouverez la section `Dossiers
 Vous verrez les dossiers partagés avec vous `dans le cadre d'une liste de distribution`.
 
 - N'acceptez que les dossiers que vous voulez voir apparaître dans zimbra et sur votre mobile, c'est dire ceux des collègues avec lesquels vous interagissez très régulièrement.
-- Pensez que l'application http://agenda.mercantour.local vous permet de consulter occasionnellement les autres agendas.
+- Pensez que l'application [http://agenda.mercantour.local](http://agenda.mercantour.local) vous permet de consulter occasionnellement les autres agendas.
 - Pensez également que thunderbird intègre un outil de planification de réunion qui connaît la disponibilité de chaque agent.
 
 Vous verrez également les `dossiers partagés avec vous par un utilisateur spécifique` en utilisant le formulaire de recherche (entrez le nom de votre collègue). En toute logique, vous accepterez ce partage.

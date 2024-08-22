@@ -1,6 +1,6 @@
 # FAQ GeoNature
 
-la gestion fonctionnelle de GeoNature est sous la responsabilité des référents GeoNature (CGP). La gestion technique est assurée par le SI. Plus d'info sur la page [Exploitation](Exploitation.md).
+la gestion fonctionnelle de GeoNature est sous la responsabilité des référents GeoNature (CGP). La gestion technique est assurée par le SI. Plus d'info sur la page [Exploitation](./exploitation.md).
 
 ## Je n'ai pas de compte GeoNature
 

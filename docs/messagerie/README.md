@@ -11,9 +11,9 @@ La configuration ne nécessite pas de droits administrateur, vous pouvez donc la
 Sinon, prenez rendez-vous avec le SI qui réalisera la configuration pour vous (votre présence reste nécessaire, car le SI n'a pas accès à votre mot de passe de messagerie) et vous montrera comment personnaliser vos partages.
 
 Notre serveur de messagerie Zimbra permet de partager les agendas, les carnets d'adresses et les boîtes mail, collectivement appelés `dossiers` par Zimbra.  
-La première étape consiste à configurer le serveur [Zimbra](Zimbra.md) pour [partager vos dossiers](Zimbra.md#partager-son-agenda-son-carnet-dadresses-sa-boîte-mail) et [accéder aux dossiers partagés par un collègue](Zimbra.md#accéder-à-un-agenda-un-carnet-dadresses-ou-une-boîte-mail-partagés-avec-moi).
+La première étape consiste à configurer le serveur [Zimbra](./Zimbra.md) pour [partager vos dossiers](./Zimbra.md#partager-son-agenda-son-carnet-dadresses-sa-boite-mail) et [accéder aux dossiers partagés par un collègue](./Zimbra.md#acceder-a-un-agenda-un-carnet-dadresses-ou-une-boite-mail-partages-avec-moi).
 
-Après avoir configuré Zimbra, vous pourrez simplement accéder aux partages depuis [Thunderbird](Thunderbird.md) ou sur votre [smartphone android](android.md).
+Après avoir configuré Zimbra, vous pourrez simplement accéder aux partages depuis [Thunderbird](./Thunderbird.md) ou sur votre [smartphone android](./android.md).
 
 ## Configuration et génération de la signature
 
