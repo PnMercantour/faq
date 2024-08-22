@@ -10,7 +10,7 @@ Cette page sert à construire la documentation qui est affichée sur le site: ht
 
 ## Messagerie
 
-Pour tout savoir sur la [configuration de la messagerie, le partage d'agendas et de contacts et l'application interne d'agenda partagé](Messagerie/README.md).
+Pour tout savoir sur la [configuration de la messagerie, le partage d'agendas et de contacts et l'application interne d'agenda partagé](docs/Messagerie/README.md).
 
 ## Zoom
 

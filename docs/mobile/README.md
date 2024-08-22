@@ -54,7 +54,7 @@ Le cas échéant,
 Plusieurs utilisateurs ont constaté que l'application e-mail utilise beaucoup d'espace de stockage (jusqu'à plusieurs gigaoctets). Pour résoudre ce problème:
 
 - stocker les pièces jointes sur la carte SD (si vous en avez une), il y a un paramètre pour cela.
-- pour effacer les messages déjà stockés en mémoire, désactiver puis [réactiver le compte mail](../Messagerie/android/README.md#mail).
+- pour effacer les messages déjà stockés en mémoire, désactiver puis [réactiver le compte mail](../messagerie/android.md#mail).
 
 - Sélectionner **Mémoire** pour examiner l'utilisation de la mémoire.
 
@@ -62,7 +62,7 @@ Plusieurs utilisateurs ont constaté que l'application e-mail utilise beaucoup d
 
 ### Applications de messagerie, calendrier et carnet d'adresses
 
-[Configuration de la messagerie, du calendrier et du carnet d'adresses sur un mobile](Messagerie/android/README.md)
+[Configuration de la messagerie, du calendrier et du carnet d'adresses sur un mobile](../messagerie/android.md)
 
 ### Zoom
 
