@@ -1,6 +1,6 @@
 # L'agenda partagé du Parc National du Mercantour
 
-Il s'agit d'une application web, accessible à l'url http://agenda.mercantour.local (seulement depuis l'intranet ou le VPN).
+Il s'agit d'une application web, accessible à l'url [http://agenda.mercantour.local](http://agenda.mercantour.local) (seulement depuis l'intranet ou le VPN).
 
 ## A quoi sert cette application?
 Consulter occasionnellement les agendas fusionnés d'un collègue, d'un groupe de collègues, ou d'un service tout entier.

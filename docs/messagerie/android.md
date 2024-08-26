@@ -19,7 +19,7 @@ Le nom du serveur Zimbra doit être saisi de façon explicite: `mail.espaces-nat
 
 _N'hésitez pas à faire appel au SI pour installer les applications sur votre smartphone professionnel._
 
-Installez f-droid https://f-droid.org/F-Droid.apk . [f-droid](https://f-droid.org) est un magasin d'applications libres, distinct du play store de google. De ce fait, l'installation est un peu plus complexe et réservée aux utilisateurs avertis.
+Installez f-droid [https://f-droid.org/F-Droid.apk](https://f-droid.org/F-Droid.apk) . [f-droid](https://f-droid.org) est un magasin d'applications libres, distinct du play store de google. De ce fait, l'installation est un peu plus complexe et réservée aux utilisateurs avertis.
 
 Installation manuelle de f-droid, google play protect doit être désactivé pour autoriser l'installation.
 

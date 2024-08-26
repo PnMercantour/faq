@@ -5,8 +5,8 @@ Ce document explique comment [partager vos dossiers](#partager-son-agenda-son-ca
 
 Après avoir configuré Zimbra, vous pourrez simplement accéder aux partages depuis Thunderbird et les applications de messagerie/contacts/agenda de votre smartphone.
 
-- Paramétrer [Thunderbird](../Thunderbird/README.md).
-- Paramétrer votre [smartphone android](../android/README.md).
+- Paramétrer [Thunderbird](./Thunderbird.md).
+- Paramétrer votre [smartphone android](./android.md).
 
 ## Création du compte Zimbra et configuration générale
 
@@ -27,7 +27,7 @@ Cocher la case _Inclure les éléments partagés dans les recherches_.
 
 Cocher les cases _Première étape: explorer la liste GAL_ et _Inclure des adresses de la liste d'adresses globales_. Cette option vous aide à trouver l'adresse de votre correspondant (ou liste) sur le serveur Zimbra en tapant les premières lettres du nom.
 
-Cocher la case _Inclure l'adresse des contacts partagés_ pour que la saisie automatique utilise les [carnets d'adresses partagés avec vous](#accéder-à-un-agenda-un-carnet-dadresses-ou-une-boîte-mail-partagés-avec-moi).
+Cocher la case _Inclure l'adresse des contacts partagés_ pour que la saisie automatique utilise les [carnets d'adresses partagés avec vous](#acceder-à-un-agenda-un-carnet-dadresses-ou-une-boite-mail-partages-avec-moi).
 
 ![](../img/Préférences-Contacts.png)
 
@@ -95,7 +95,7 @@ Vous verrez les dossiers partagés avec vous `dans le cadre d'une liste de distr
 
 Vous verrez également les `dossiers partagés avec vous par un utilisateur spécifique` en utilisant le formulaire de recherche (entrez le nom de votre collègue). En toute logique, vous accepterez ce partage.
 
-La section des `Dossiers partagés et déjà acceptés` vous permet de visualiser l'ensemble des dossiers partagés ajoutés à votre compte Zimbra. Pour renoncer à un partage déjà accepté et qui ne vous intéresse plus, voir [ci-dessous](#accepter-un-partage-depuis-longlet-calendrier-mail-contacts).
+La section des `Dossiers partagés et déjà acceptés` vous permet de visualiser l'ensemble des dossiers partagés ajoutés à votre compte Zimbra. Pour renoncer à un partage déjà accepté et qui ne vous intéresse plus, voir [ci-dessous](#accepter-ou-renoncer-a-un-partage-depuis-longlet-calendrier-mail-contacts).
 
 ### Accepter ou renoncer à un partage depuis l'onglet Calendrier, Mail, Contacts
 
