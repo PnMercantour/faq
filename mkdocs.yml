@@ -11,8 +11,8 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+  logo: img/logo_embleme_pnm_quadri_vert.jpg
     #    - toc.integrate
-
   language: fr
   palette:
     - scheme: default
