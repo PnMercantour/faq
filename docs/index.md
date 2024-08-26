@@ -12,8 +12,8 @@ Cette page est exclusivement destinée aux agents du Parc national du Mercantour
 [https://www.mercantour-parcnational.fr/fr/formulaire-contact](https://www.mercantour-parcnational.fr/fr/formulaire-contact)
 
 
-## Base de données
-La documentation disponible sur les données internes du Parc national du Mercantour est accessible ici: [https://pnmercantour.github.io/donnees/bd_pnm/](https://pnmercantour.github.io/donnees/bd_pnm/)
+## Base de données et tutos
+La documentation disponible sur les données internes du Parc national du Mercantour, ainsi que les tutos pour les utiliser sont accessibles ici: [https://pnmercantour.github.io/donnees/bd_pnm/](https://pnmercantour.github.io/donnees/)
 
 
 ## Formulaires
