@@ -1,7 +1,7 @@
 # Thunderbird
 
 Ce document explique comment configurer l'application Thunderbird (version 102) pour accéder à vos dossiers (mail, agenda, contacts) personnels ainsi qu'aux dossiers partagés avec vous.  
-Avant de commencer, configurez les partages dans l'application web [Zimbra](../Zimbra/README.md).
+Avant de commencer, configurez les partages dans l'application web [Zimbra](./Zimbra/README.md).
 
 Avec Thunderbird, la configuration du [mail](#mail), des [carnets d'adresse](#carnets-dadresses) et des [agendas](#agendas) sont réalisés indépendamment. Chacune de ces opérations peut être réalisée par le SI pendant une session de partage d'écran, ou par vous-mêmes si vous êtes familiers des outils de messagerie.
 
@@ -58,7 +58,7 @@ Entrez votre email et l'adresse du serveur mail.espaces-naturels.fr.
 Entrez votre mot passe zimbra.  
 ![](../img/password_prompt.png)
 
-Une fenêtre apparaît avec la liste de vos agendas personnels ou partagés avec vous par d'autres utilisateurs et préalablement [acceptés](../Zimbra/README.md) dans l'appli web zimbra.  
+Une fenêtre apparaît avec la liste de vos agendas personnels ou partagés avec vous par d'autres utilisateurs et préalablement [acceptés](./Zimbra/README.md) dans l'appli web zimbra.  
 ![](../img/agenda_chooser.png)
 
 Votre agenda principal s'appelle `calendar`.
@@ -72,7 +72,7 @@ Pour chaque agenda importé, cliquez sur "Propriétés" afin de le nommer, lui d
 
 Pour les agendas partagés, vous décocherez généralement `Afficher les alarmes`, vous cocherez `En lecture seule` et vous décocherez `Prise en charge du mode hors connexion` (votre PC ne s'en portera que mieux car il semble que Thunderbird consomme énormément de mémoire lorsque cette option est cochée).
 
-L'opération peut être répétée, par exemple lorsqu'un nouveau collègue rejoint votre équipe et a partagé son agenda avec vous (n'oubliez pas de l'[accepter dans Zimbra](../Zimbra/README.md)). Dans ce cas seuls les agendas réseaux qui n'étaient pas déjà sélectionnés sont proposés.
+L'opération peut être répétée, par exemple lorsqu'un nouveau collègue rejoint votre équipe et a partagé son agenda avec vous (n'oubliez pas de l'[accepter dans Zimbra](./Zimbra/README.md)). Dans ce cas seuls les agendas réseaux qui n'étaient pas déjà sélectionnés sont proposés.
 
 ### Gestion des évènements
 
@@ -95,7 +95,7 @@ Entrez votre mot passe zimbra.
 Sélectionnez les carnets d'adresse à importer.  
 ![](../img/contacts_chooser.png)
 Votre carnet d'adresses principal s'appelle `Contacts`, zimbra gère automatiquement le carnet d'adresses `Emailed Contacts` en inspectant les mails reçus et envoyés.  
-D'autres carnets d'adresses peuvent être proposés s'ils ont été partagés par leur propriétaire et [acceptés](../Zimbra/README.md) dans l'appli web zimbra.
+D'autres carnets d'adresses peuvent être proposés s'ils ont été partagés par leur propriétaire et [acceptés](./Zimbra/README.md) dans l'appli web zimbra.
 
 L'édition des paramètres du carnet d'adresses permet de régler le délai de synchronisation, de forcer une synchronisation, ou d'indiquer à Thunderbird que ce carnet doit être considéré comme étant en lecture seule (Thunderbird ne sait pas déterminer si le carnet zimbra est partagé en lecture ou en lecture écriture. En cochant la case, on s'interdit de modifier le carnet dans thunderbird et on évite des comportements bizarres lorsque le carnet n'est pas inscriptible sur le serveur).
 
