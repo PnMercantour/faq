@@ -8,8 +8,9 @@ hide:
 
 # Questions fréquentes sur le système d'information du Parc national du Mercantour.
 
-Cette page est exclusivement destinée aux agents du Parc national du Mercantour, si vous êtes un visiteur et souhaitez obtenir des informations ou données vous pouvez nous contacter via: 
-[https://www.mercantour-parcnational.fr/fr/formulaire-contact](https://www.mercantour-parcnational.fr/fr/formulaire-contact)
+Les informations contenues dans cette FAQ sont destinées aux agents du Parc national du Mercantour.  
+Si vous êtes un visiteur et souhaitez obtenir des informations ou données vous pouvez nous contacter via 
+[le formulaire de contact](https://mercantour-parcnational.fr/fr/formulaire-contact)
 
 
 ## Base de données et tutos
@@ -53,7 +54,7 @@ Les tutos QGIS du parc sont accessibles ici :
 
 ## Wifi
 
-[Procédure de connexion aux réseaux Wifi du siège](./reseau/README.md)
+[Procédure de connexion aux réseaux Wifi](./reseau/README.md)
 
 ## Zoom
 
