@@ -1,8 +1,8 @@
-# Connexion au réseau Wifi du siège
+# Connexion Wifi au PNM
 
-Deux réseaux Wifi peuvent être utilisés au siège : pnm-utilisateurs et pnm-visiteurs  
-IMPORTANT : l'usage du réseau pnm-utilisateurs est strictement réservé aux ordinateurs et mobiles de l'établissement.  
-Pour la connexion de vos matériels personnels, ou ceux de vos invités, seul le réseau pnm-visiteurs peut être utilisé.
+Deux réseaux Wifi sont configurés dans les sites PNM (valable pour tous les sites, à l'exclusion de Barcelonnette et Allos qui seront équipés prochainement) : pnm-utilisateurs et pnm-visiteurs .
+IMPORTANT : l'accès au réseau pnm-utilisateurs est strictement réservé aux ordinateurs et mobiles de l'établissement.  
+Utilisez le réseau pnm-visiteurs pour la connexion de vos matériels personnels et pour vos invités.
 
 ## Connexion au réseau pnm-utilisateurs
 
@@ -30,6 +30,10 @@ N'utilisez ce réseau qu'avec des ordinateurs et mobiles de l'établissement.
   - Si la case "Utiliser mon compte d'utilisateur Windows" et le bouton "OK" sont grisés, renseigner manuellement le compte sous la forme mercantour\compte et le mot de passe de l'ordinateur. Le bouton "OK" devient actif.
   - Cliquer sur "OK" puis sur "Se connecter"
 
+### Android
+  - Indiquez votre identifiant Windows (en général première lettre du prénom puis nom), sans préciser le domaine
+  - Saisissez votre mot de passe Windows.
+    
 ## Connexion au réseau pnm-visiteurs
 
 Vos visiteurs peuvent se connecter en wifi sur le réseau pnm-visiteurs via un ordinateur ou un smartphone. Vous pouvez également utiliser ce réseau avec vos téléphones personnels.  
