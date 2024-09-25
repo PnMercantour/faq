@@ -42,3 +42,17 @@ Pour installer occtax2:
 ### Le taxon que j'ai observé n'est pas ouvert à la saisie dans Occtax Mobile
 
 Adressez vous à un référent GeoNature (CGP) qui ouvrira le taxon à la saisie ou vous indiquera le taxon valide qui correspond à votre observation. Ne demandez pas au SI qui n'a pas les connaissances requises pour valider votre demande.
+
+### Comment créer un jeu de données
+
+Le module Métadonnées permet de créer et modifier des cadres d'acquisition et des jeux de données. L'accès à cette fonctionnalité est réservé aux [gestionnaires GeoNature](exploitation.md#gestionnaires).  
+[Documentation du module Métadonnées](https://docs.geonature.fr/user-manual.html#metadonnees)
+
+### Comment importer des observations dans GeoNature
+
+Le module d'import permet d'importer des données dans GeoNature à partir d'un fichier csv. L'accès à cette fonctionnalité est réservé aux [gestionnaires GeoNature](exploitation.md#gestionnaires).
+
+- Créer un jeu de données en prenant soin d'associer le module `import` au jeu de données (pour que ce jeu de données soit utilisable dans l'import qui va suivre).
+- Ouvrir le module `import`, sélectionner le jeu de données à utiliser, le fichier à importer et définir la correspondance entre la structure des données à importer et celle de GeoNature (par commodité, la correspondance peut être sauvegardée pour être réutilisée ultérieurement).
+
+[Documentation du module import](https://github.com/PnX-SI/gn_module_import/tree/master?tab=readme-ov-file#utilisation-du-module-dimports)
