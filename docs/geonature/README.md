@@ -43,6 +43,8 @@ Pour installer occtax2:
 
 Adressez vous à un référent GeoNature (CGP) qui ouvrira le taxon à la saisie ou vous indiquera le taxon valide qui correspond à votre observation. Ne demandez pas au SI qui n'a pas les connaissances requises pour valider votre demande.
 
+## Utilisation avancée de GeoNature
+
 ### Comment créer un jeu de données
 
 Le module Métadonnées permet de créer et modifier des cadres d'acquisition et des jeux de données. L'accès à cette fonctionnalité est réservé aux [gestionnaires GeoNature](exploitation.md#gestionnaires).  
