@@ -39,6 +39,26 @@ Attention à ne pas supprimer de dossier **local** à Thunderbird, car ces dossi
 Si votre PC a été configuré depuis plusieurs années, il est possible que Thunderbird utilise encore l'extension TBSync pour se connecter au serveur Zimbra avec le protocole ActiveSync (protocole propriétaire de Microsoft).  
 Si c'est le cas, merci d'en informer le SI qui analysera et mettra à jour votre configuration.
 
+### Comprendre et réparer les dossiers de courrier
+
+Thunderbird gère deux types de boîtes:
+
+- la boîte réseau, sur le serveur zimbra, mise en cache sur votre PC, mais aussi accessible depuis le web mail, un autre PC ou un mobile. C'est dans cette boîte qu'arrive votre courrier et que votre courrier envoyé est enregistré. Stockez votre historique de messages dans cette boîte, en créant des sous-dossiers, dans les limites du quota qui vous est alloué (en principe 2Go).
+- les dossiers locaux, sur votre PC (ou sur un serveur de fichiers de votre site) ne sont accessibles que depuis votre profil Thunderbird. Vous ne pouvez pas consulter ces dossiers dans le web mail zimbra, depuis votre mobile ou depuis un PC sur lequel votre profil Thunderbird n'est pas installé. La sauvegarde des dossiers locaux est tributaire des procédures de sauvegarde du support (PC ou serveur de site).
+
+Il arrive que Thunderbird n'affiche pas correctement le contenu d'un dossier de courrier. Cela se traduit par des messages illisibles, ou dont l'entête ne correspond pas au contenu. Le problème peut survenir sur un dossier de votre boîte réseau (souvent la boîte de réception des messages, qui est la plus sollicitée) ou sur un dossier local.  
+S'il s'agit d'un dossier de votre boîte réseau, vous pouvez vous assurer que le problème est causé par Thunderbird en vous connectant à votre boîte réseau avec le web mail zimbra ou votre mobile. Si l'erreur n'apparaît pas, c'est bien qu'elle est causée par Thunderbird.  
+La procédure de correction est la même qu'il s'agisse d'un dossier de votre boîte réseau mis en cache sur votre PC ou d'un dossier local:
+
+- Ouvrir Thunderbird
+- clic droit sur le dossier en erreur
+- ouvrir les propriétés du dossier
+- clic sur `Réparez le dossier`.
+
+![](../img/Préférences-Dossier.png)
+
+Thunderbird va alors recalculer l'index des messages contenus dans le dossier (cela peut prendre plusieurs minutes pour la boîte de réception ou d'autres gros dossiers sur la boîte réseau), ce qui en principe corrige le problème.
+
 ## Agendas
 
 Commencez par vous désabonner de tous les agendas **réseau** installés sur thunderbird par une autre procédure que celle décrite ci dessous. Ne conservez que les agendas **locaux** à l'ordinateur, si vous en avez.
@@ -122,7 +142,7 @@ Configuration avancée
 - Filtre: `(&(objectclass=person)(mail=\*@mercantour-parcnational.fr))`
 - Méthode d'identification: Kerberos(GSSAPI)
 
-## Configuration et génération de la signature 
+## Configuration et génération de la signature
 
 Pour configurer sa signature rendez-vous sur l'url suivante : [http://signature.mercantour.local/](http://signature.mercantour.local/)
 
@@ -131,5 +151,4 @@ Cliquer ensuite sur "Générer la signature" et glisser le fichier téléchargé
 
 Se rendre ensuite sur le compte thunderbird où l'on souhaite apporter une signature et naviguer vers "Outils" dans la barre d'outils se trouvant en haut d'écran, puis sur "Paramètres des comptes". Une fois à ce niveau sur la première page, sélectionner "Apposer la signature à partir d'un fichier", puis cliquer sur la case "Choisir" se trouvant directement à droite. Enfin, sélectionner la signature précedémment téléchargée.
 
-En dernier lieu, se rendre à nouveau vers "Outils" dans la barre d'outils, puis sur "Paramètres". Ensuite, cliquer sur l'onglet "Vie privée et sécurité", cocher la case "Autoriser le contenu distant dans les messages" et cliquer sur "Exceptions". Renseigner dans "Adresse du site web" : *@mercantour-parcnational.fr puis "Autoriser", enfin, cliquer sur "Enregistrer les modifications".
-
+En dernier lieu, se rendre à nouveau vers "Outils" dans la barre d'outils, puis sur "Paramètres". Ensuite, cliquer sur l'onglet "Vie privée et sécurité", cocher la case "Autoriser le contenu distant dans les messages" et cliquer sur "Exceptions". Renseigner dans "Adresse du site web" : \*@mercantour-parcnational.fr puis "Autoriser", enfin, cliquer sur "Enregistrer les modifications".
