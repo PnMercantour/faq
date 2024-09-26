@@ -53,11 +53,9 @@ La procédure de correction est la même qu'il s'agisse d'un dossier de votre bo
 - Ouvrir Thunderbird
 - clic droit sur le dossier en erreur
 - ouvrir les propriétés du dossier
-- clic sur `Réparez le dossier`.
+- clic sur `Réparer le dossier`. Thunderbird recalcule l'index des messages du dossier (cela peut prendre plusieurs minutes pour la boîte de réception ou d'autres gros dossiers sur la boîte réseau), ce qui en principe corrige le problème d'affichage.
 
 ![](../img/Préférences-Dossier.png)
-
-Thunderbird va alors recalculer l'index des messages contenus dans le dossier (cela peut prendre plusieurs minutes pour la boîte de réception ou d'autres gros dossiers sur la boîte réseau), ce qui en principe corrige le problème.
 
 ## Agendas
 
