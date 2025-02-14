@@ -26,6 +26,13 @@ Se rendre ensuite sur le compte thunderbird où l'on souhaite apporter une signa
 
 En dernier lieu, se rendre à nouveau vers "Outils" dans la barre d'outils, puis sur "Paramètres". Ensuite, cliquer sur l'onglet "Vie privée et sécurité", cocher la case "Autoriser le contenu distant dans les messages" et cliquer sur "Exceptions". Renseigner dans "Adresse du site web" : \*@mercantour-parcnational.fr puis "Autoriser", enfin, cliquer sur "Enregistrer les modifications".
 
+## Message d'absence  
+
+Il faut se rendre sur Zimbra.  
+Dans l'onglet "préférences" , cliquer dans la colonne de gauche sur "hors du bureau".  
+Le message automatique sera paramétrable dans son contenu et sa programmation de date de début à date de fin (optionnel)  
+Il est impératif de l'activer par Zimbra et non par Thunderbird car ce dernier enverra en masse les messages à son démarrage et provoquera une alerte spam chez le prestataire avec une suspension de la messagerie.
+
 ## Services Zoom
 
 [Procédure de connexion à Zoom et services associés.](./Zoom.md)
