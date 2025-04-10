@@ -29,7 +29,11 @@ Les problèmes, lorsqu'ils apparaissent, se manifestent par des sessions très l
 
 ## J'ai un profil itinérant et cela ne marche pas bien
 Votre profil est trop gros et ne se synchronise plus avec le serveur.  
+
 - Connectez-vous sur le dernier PC que vous avez utilisé,
+
 - identifiez les fichiers volumineux que vous avez mis sur le bureau, dans `Documents`, les téléchargements, les images et vidéos,
+
 - Déplacez ces fichiers sur votre serveur de site ou effacez-les s'ils ne sont plus utiles.
+
 - Fermez votre session et contactez le SI pour un contrôle de la synchronisation entre le PC et le serveur.
