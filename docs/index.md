@@ -32,6 +32,11 @@ Créez un formulaire d'enquête en ligne sans compétences techniques particuli�
 
 Pour tout savoir sur la [configuration de la messagerie, le partage d'agendas et de contacts et l'application interne d'agenda partagé](./messagerie/README.md).
 
+## Mon profil Windows
+[Guide de maintenance du profil Windows](./Windows/README.md)
+
+Sessions Windows qui ne s'ouvrent pas sur le bon environnement.
+
 ## Mon téléphone mobile
 
 [Guide de maintenance du téléphone mobile](./mobile/README.md)
