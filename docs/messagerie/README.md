@@ -4,7 +4,7 @@ Ce document explique comment configurer et utiliser Outlook et Zoom.
 
 Pour plus d'information, accédez à la documentation en ligne des outils en interrogeant votre navigateur web ... ou demandez au SI.
 
-Vous trouverez également des modules de formation pour vous accompagner dans la migration vers Microsoft 365 sur le micro site [https://migration365.mercantour.local]()
+Vous trouverez également des modules de formation pour vous accompagner dans la migration vers Microsoft 365 sur le micro site [https://migration365.mercantour.local](https://migration365.mercantour.local)
 
 
 Notez que l'application web d'agenda partagé [https://agenda.mercantour.local](https://agenda.mercantour.local) n'est plus en service.
@@ -14,16 +14,16 @@ Pour en savoir plus sur la suppression de cette application: l'[application agen
 Outlook est le nom générique des applications que vous utilisez pour gérer votre courrier, vos agendas et vos contacts.  
 Ces applications interagissent avec votre compte Exchange online, qui remplace zimbra.
 
-Si vous avez un compte mail sous la forme prenom.nom@mercantour-parcnational.fr, vous pouvez utiliser Outlook pour le web (sur PC ou mobile) à l'adresse [https://outlook.office.com/](https://outlook.office.com/mail/). Vous pouvez également installer et utiliser l'application Outlook sur votre mobile (à télécharger dans le play store android, ou l'app store Apple).
+Si vous avez un compte mail sous la forme `prenom.nom@mercantour-parcnational.fr`, vous pouvez utiliser Outlook pour le web (sur PC ou mobile) à l'adresse [https://outlook.office.com/](https://outlook.office.com/mail/). Vous pouvez également installer et utiliser l'application Outlook sur votre mobile (à télécharger dans le play store android, ou l'app store Apple).
 
 Selon la licence d'utilisation qui vous est attribuée, vous pouvez dans certains cas avoir accès à la suite office sur votre PC (ou mac). Dans ce cas, vous pouvez utiliser Outlook pour Windows (ou Outlook for macos) sur votre PC. Merci d'utiliser impérativement la version Outlook (new) de préférence à la version Outlook (classic) qui sera bientôt arrêtée par l'éditeur.
 
 Les agents permanents ont (ou auront) accès à la suite office sur PC et auront le choix d'utiliser le client lourd Outlook (new).  
 Les agents saisonniers doivent utiliser Outlook pour le web ou Outlook mobile. Leur licence Microsoft 365 ne permet pas d'utiliser Outlook pour Windows.
 
-Pour tous, Outlook pour le web est l'application recommandée par le SI.
+Pour tous, __Outlook pour le web est l'application recommandée par le SI__.
 
-[Télécharger Outlook](https://www.microsoft.com/fr-fr/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook#Download-the-app)
+[Installer Outlook sur votre mobile](https://migration365.mercantour.local/files/installoutlookmobile.pdf)
 
 
 ## Configuration d'Outlook
@@ -35,11 +35,22 @@ https://m365.cloud.microsoft
 
 Accédez aux applications par le lanceur d'applications (en haut à gauche de l'écran), sélectionnez Outlook.
 
-Pour accéder directement à Outlook, suivez le lien https://outlook.office.com/mail/
+Pour accéder directement à Outlook, suivez le lien [https://outlook.office.com/mail/](https://outlook.office.com/mail/)
+
+[Connexion à Outlook pour le web](https://migration365.mercantour.local/files/webmail_outlook_connection.pdf)
 
 ### Configuration d'Outlook pour Windows
-https://support.microsoft.com/fr-fr/office/configurer-et-utiliser-outlook-4636f361-d5e3-4a87-9cd4-382858de55fa
+[Configurer et utiliser Outlook](https://support.microsoft.com/fr-fr/office/configurer-et-utiliser-outlook-4636f361-d5e3-4a87-9cd4-382858de55fa)
 
+## Boîtes partagées
+Les boîtes partagées permettent à un groupe d'agents de gérer conjointement un service rendu par messagerie (accueil, autorisations, etc).
+Lorsque vous avez accès à une boîte partagée (voir votre responsable de service), vous pouvez vous connecter [ainsi](https://migration365.mercantour.local/files/webmail_outlook_boites_partagees.pdf).
+
+Voir également:
+
+- la documentation de Microsoft sur l'[utilisation des boîtes partagées dans Outlook](https://support.microsoft.com/fr-fr/office/ouvrir-et-utiliser-une-bo%C3%AEte-aux-lettres-partag%C3%A9e-dans-outlook-d94a8e9e-21f1-4240-808b-de9c9c088afd?WT.mc_id=365AdminCSH_inproduct), 
+- [la liste des boîtes partagées du Parc](https://migration365.mercantour.local/shared_mailboxes.html),
+- [la liste des délégations de boîtes du Parc](https://migration365.mercantour.local/mail_delegates.html).
 
 ## Partage d'agenda
 - Comment afficher un calendrier perso dans outlook à côté de mon calendrier pro?
@@ -49,7 +60,7 @@ https://support.microsoft.com/fr-fr/office/configurer-et-utiliser-outlook-4636f3
 ### Intégrer un calendrier perso dans Outlook
 Procédure testée à partir d'un agenda google, à adapter à votre application agenda perso.
 
-https://support.microsoft.com/fr-fr/office/afficher-votre-calendrier-google-dans-outlook-c1dab514-0ad4-4811-824a-7d02c5e77126
+[Afficher un calendrier google dans Outlook](https://support.microsoft.com/fr-fr/office/afficher-votre-calendrier-google-dans-outlook-c1dab514-0ad4-4811-824a-7d02c5e77126)
 
 Remarques:
 
@@ -62,7 +73,8 @@ Remarques:
 
 
  Il est possible de partager son agenda pro avec vous-même (adresse perso) de façon à l'afficher dans votre appli d'agenda perso à côté de vos autres évènements.
-https://support.microsoft.com/fr-fr/office/partager-votre-calendrier-dans-outlook-sur-le-web-7ecef8ae-139c-40d9-bae2-a23977ee58d5
+
+[Partager votre calendrier dans Outlook sur le web](https://support.microsoft.com/fr-fr/office/partager-votre-calendrier-dans-outlook-sur-le-web-7ecef8ae-139c-40d9-bae2-a23977ee58d5)
 
 Remarques:
 
@@ -76,13 +88,13 @@ Remarques:
 
 ### Partager mon agenda avec les collègues ou afficher un agenda partagé par un collègue
 
-https://support.microsoft.com/fr-fr/office/partager-votre-calendrier-dans-outlook-2fcf4f4f-8d46-4d8b-ae79-5d94549e531b
+[Partager un calendrier dans Outlook](https://support.microsoft.com/fr-fr/office/partager-votre-calendrier-dans-outlook-2fcf4f4f-8d46-4d8b-ae79-5d94549e531b)
 
 ## Configuration et génération de la signature
 
 Pour configurer sa signature et apprendre comment l'utiliser avec Outlook, rendez-vous sur la page [https://signature.mercantour.local/](https://signature.mercantour.local/)
 
-[Lien vers la documentation Outlook](https://support.microsoft.com/fr-fr/office/cr%C3%A9er-et-ajouter-une-signature-%C3%A9lectronique-dans-outlook-8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2#picktab=outlook_on_the_web)
+[Créer et ajouter une signature électronique dans Outlook](https://support.microsoft.com/fr-fr/office/cr%C3%A9er-et-ajouter-une-signature-%C3%A9lectronique-dans-outlook-8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2#picktab=outlook_on_the_web)
 
 ## Message d'absence  
 
@@ -124,7 +136,7 @@ Il est recommandé de transférer les archives de courrier (au moins celles que 
 - A la fin du traitement, les messages transférés doivent être lisibles depuis Outlook et avoir disparu des dossiers locaux Thunderbird.
 
 ### Transférer des contacts
-Procédure en cours de rédaction
+Procédure en test, bientôt disponible ici.
 
 ### Et après?
 Après avoir transféré l'ensemble de vos données Thunderbird vers Exchange, vous pouvez supprimer le profil Thunderbird (ou demander au SI de le faire pour vous).  
