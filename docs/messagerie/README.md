@@ -4,7 +4,7 @@ Ce document explique comment configurer et utiliser Outlook et Zoom.
 
 Pour plus d'information, accédez à la documentation en ligne des outils en interrogeant votre navigateur web ... ou demandez au SI.
 
-Vous trouverez également des modules de formation pour vous accompagner dans la migration vers Microsoft 365 sur le micro site https://migration365.mercantour.local
+Vous trouverez également des modules de formation pour vous accompagner dans la migration vers Microsoft 365 sur le micro site [https://migration365.mercantour.local]()
 
 
 Notez que l'application web d'agenda partagé [https://agenda.mercantour.local](https://agenda.mercantour.local) n'est plus en service.
