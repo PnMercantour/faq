@@ -131,13 +131,18 @@ Il est recommandé de transférer les archives de courrier (au moins celles que 
 - Ouvrir le profil Thunderbird qui contient les dossiers locaux à transférer.
 - Créer une connexion IMAP vers le serveur Exchange comme sur la copie d'écran ci-dessous.
 ![](../img/thunderbird2exchange.png)
+
+- [Paramètres de connexion](https://support.microsoft.com/fr-fr/office/param%C3%A8tres-pop-imap-et-smtp-pour-outlook-com-d088b986-291d-42b8-9564-9c414e2aa040)
 - Seuls les dossiers Outlook auxquels vous êtes abonné (click droit sur le dossier racine et "S'abonner") sont visibles, mais ce n'est pas gênant.
 - Déplacer les dossiers locaux (ou les messages d'intérêt) vers un dossier sur le serveur Exchange. 
 - Il peut y avoir des erreurs (cela se produit lorsque Exchange essaie d'enregistrer un message avant d'avoir créé le dossier qui le contient). Dans ce cas, créer le ou les dossiers voulus sur le serveur exchange, puis retenter le déplacement des messages. 
 - A la fin du traitement, les messages transférés doivent être lisibles depuis Outlook et avoir disparu des dossiers locaux Thunderbird.
 
 ### Transférer des contacts
-Procédure en test, bientôt disponible ici.
+
+[Importer des contacts depuis des vcard](https://support.microsoft.com/fr-fr/office/importer-des-contacts-d-icloud-fichier-vcard-vcf-vers-outlook-7d23aa76-ae22-43d0-a6df-e6e91bea7d38)
+
+[Importer un fichier de contacts csv dans Outlook](https://support.microsoft.com/fr-fr/office/importer-ou-exporter-des-contacts-dans-outlook-%C3%A0-l-aide-d-un-fichier-csv-bb796340-b58a-46c1-90c7-b549b8f3c5f8#picktab=web)
 
 ### Et après?
 Si vous avez transféré l'ensemble de vos données Thunderbird vers Exchange, vous pouvez supprimer définitvement le profil Thunderbird (ou demander au SI de le faire pour vous).  
