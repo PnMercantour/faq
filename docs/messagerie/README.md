@@ -1,37 +1,133 @@
 # Outils de messagerie, carnets d'adresse, agendas partagés, signatures, services Zoom au Parc National du Mercantour
 
-Ce document explique comment configurer Zimbra, Thunderbird et les applications mobiles android de votre smartphone pour partager les agendas, carnets d'adresse (et même les dossiers de messagerie) et se connecter à Zoom.
+Ce document explique comment configurer et utiliser Outlook et Zoom.
 
-L'application web [http://agenda.mercantour.local](http://agenda.mercantour.local) , accessible sur le réseau interne ou via le VPN, vous permet de consulter sans configuration préalable les agendas de _tous_ les agents et services du Parc, sous une forme expurgée. Cet outil est utile pour une recherche ponctuelle, ou pour consulter rapidement l'agenda du jour, de la semaine ou du mois de tous les membres d'un service.  
-Pour en savoir plus : l'[application agenda](./agenda_mercantour_local.md)
+Pour plus d'information, accédez à la documentation en ligne des outils en interrogeant votre navigateur web ... ou demandez au SI.
 
-## Configuration des outils de messagerie, carnets d'adresse et agendas
+Vous trouverez également des modules de formation pour vous accompagner dans la migration vers Microsoft 365 sur le micro site https://migration365.mercantour.local
 
-La configuration ne nécessite pas de droits administrateur, vous pouvez donc la réaliser vous-même si cela ne vous rebute pas.  
-Sinon, prenez rendez-vous avec le SI qui réalisera la configuration pour vous (votre présence reste nécessaire, car le SI n'a pas accès à votre mot de passe de messagerie) et vous montrera comment personnaliser vos partages.
 
-Notre serveur de messagerie Zimbra permet de partager les agendas, les carnets d'adresses et les boîtes mail, collectivement appelés `dossiers` par Zimbra.  
-La première étape consiste à configurer le serveur [Zimbra](./Zimbra.md) pour [partager vos dossiers](./Zimbra.md#partager-son-agenda-son-carnet-dadresses-sa-boite-mail) et [accéder aux dossiers partagés par un collègue](./Zimbra.md#acceder-a-un-agenda-un-carnet-dadresses-ou-une-boite-mail-partages-avec-moi).
+Notez que l'application web d'agenda partagé [https://agenda.mercantour.local](https://agenda.mercantour.local) n'est plus en service.
+Pour en savoir plus sur la suppression de cette application: l'[application agenda](./agenda_mercantour_local.md)
 
-Après avoir configuré Zimbra, vous pourrez simplement accéder aux partages depuis [Thunderbird](./Thunderbird.md) ou sur votre [smartphone android](./android.md).
+## A propos d'Outlook
+Outlook est le nom générique des applications que vous utilisez pour gérer votre courrier, vos agendas et vos contacts.  
+Ces applications interagissent avec votre compte Exchange online, qui remplace zimbra.
+
+Si vous avez un compte mail sous la forme prenom.nom@mercantour-parcnational.fr, vous pouvez utiliser Outlook pour le web (sur PC ou mobile) à l'adresse [https://outlook.office.com/](https://outlook.office.com/mail/). Vous pouvez également installer et utiliser l'application Outlook sur votre mobile (à télécharger dans le play store android, ou l'app store Apple).
+
+Selon la licence d'utilisation qui vous est attribuée, vous pouvez dans certains cas avoir accès à la suite office sur votre PC (ou mac). Dans ce cas, vous pouvez utiliser Outlook pour Windows (ou Outlook for macos) sur votre PC. Merci d'utiliser impérativement la version Outlook (new) de préférence à la version Outlook (classic) qui sera bientôt arrêtée par l'éditeur.
+
+Les agents permanents ont (ou auront) accès à la suite office sur PC et auront le choix d'utiliser le client lourd Outlook (new).  
+Les agents saisonniers doivent utiliser Outlook pour le web ou Outlook mobile. Leur licence Microsoft 365 ne permet pas d'utiliser Outlook pour Windows.
+
+Pour tous, Outlook pour le web est l'application recommandée par le SI.
+
+[Télécharger Outlook](https://www.microsoft.com/fr-fr/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook#Download-the-app)
+
+
+## Configuration d'Outlook
+
+### Outlook pour le web
+Pour utiliser Outlook pour le web, il suffit de vous connecter à votre compte Microsoft 365 avec votre adresse email professionnelle comme identifiant et votre mot de passe Windows comme mot de passe.
+
+https://m365.cloud.microsoft
+
+Accédez aux applications par le lanceur d'applications (en haut à gauche de l'écran), sélectionnez Outlook.
+
+Pour accéder directement à Outlook, suivez le lien https://outlook.office.com/mail/
+
+### Configuration d'Outlook pour Windows
+https://support.microsoft.com/fr-fr/office/configurer-et-utiliser-outlook-4636f361-d5e3-4a87-9cd4-382858de55fa
+
+
+## Partage d'agenda
+- Comment afficher un calendrier perso dans outlook à côté de mon calendrier pro?
+- Comment afficher mon agenda pro dans mon application calendrier perso?
+- Comment partager mon agenda avec mes collègues?
+- Comment afficher un agenda partagé par un collègue?
+### Intégrer un calendrier perso dans Outlook
+Procédure testée à partir d'un agenda google, à adapter à votre application agenda perso.
+
+https://support.microsoft.com/fr-fr/office/afficher-votre-calendrier-google-dans-outlook-c1dab514-0ad4-4811-824a-7d02c5e77126
+
+Remarques:
+
+- Pour  afficher le volet de navigation de l'application calendrier, ouvrir la barre latérale à gauche du bouton Accueil (logo 3 bandes).
+- Fonctionne avec Outlook (new) et Outlook web.
+- Le paramétrage (liste des calendriers, code couleur) est enregistré dans le cloud. Il est propagé automatiquement sur toutes les applications (outlook PC, outlook web, outlook mobile) lorsqu'elles redémarrent. Seul l'affichage (oui/non) doit être configuré séparément sur chaque application cliente.
+- Le SI ne contrôle pas le paramétrage global sur le serveur Exchange (mis en oeuvre par l'OFB) et ne peut garantir que la fonctionnalité d'intégration de calendrier sera toujours disponible.
+
+### Voir son agenda pro dans une application calendrier perso
+
+
+ Il est possible de partager son agenda pro avec vous-même (adresse perso) de façon à l'afficher dans votre appli d'agenda perso à côté de vos autres évènements.
+https://support.microsoft.com/fr-fr/office/partager-votre-calendrier-dans-outlook-sur-le-web-7ecef8ae-139c-40d9-bae2-a23977ee58d5
+
+Remarques:
+
+- Pour importer ce calendrier dans google agenda ou icloud, créer un calendrier à partir du lien ICS donné dans le mail contenant l'invitation.
+
+![](../img/partage_agenda.png)
+
+
+- Les calendriers partagés via un lien ICS sont en lecture seule dans l'application cliente.
+- Ne jamais partager les détails des évènements avec des personnes non habilitées pour d'évidentes raisons de confidentialité.
+
+### Partager mon agenda avec les collègues ou afficher un agenda partagé par un collègue
+
+https://support.microsoft.com/fr-fr/office/partager-votre-calendrier-dans-outlook-2fcf4f4f-8d46-4d8b-ae79-5d94549e531b
 
 ## Configuration et génération de la signature
 
-Pour configurer sa signature rendez-vous sur l'url suivante : [http://signature.mercantour.local/](http://signature.mercantour.local/)
+Pour configurer sa signature et apprendre comment l'utiliser avec Outlook, rendez-vous sur la page [https://signature.mercantour.local/](https://signature.mercantour.local/)
 
-Rédiger votre signature en remplissant correctement les cases à remplir et à supprimer les éléments non nécessaire. (numéro de téléphone portable si nul besoin est par exemple)
-Cliquer ensuite sur "Générer la signature" et glisser le fichier téléchargé dans "Documents" trouvable dans "Explorateur de fichiers" de Windows.
-
-Se rendre ensuite sur le compte thunderbird où l'on souhaite apporter une signature et naviguer vers "Outils" dans la barre d'outils se trouvant en haut d'écran, puis sur "Paramètres des comptes". Une fois à ce niveau sur la première page, sélectionner "Apposer la signature à partir d'un fichier", puis cliquer sur la case "Choisir" se trouvant directement à droite. Enfin, sélectionner la signature précedémment téléchargée.
-
-En dernier lieu, se rendre à nouveau vers "Outils" dans la barre d'outils, puis sur "Paramètres". Ensuite, cliquer sur l'onglet "Vie privée et sécurité", cocher la case "Autoriser le contenu distant dans les messages" et cliquer sur "Exceptions". Renseigner dans "Adresse du site web" : \*@mercantour-parcnational.fr puis "Autoriser", enfin, cliquer sur "Enregistrer les modifications".
+[Lien vers la documentation Outlook](https://support.microsoft.com/fr-fr/office/cr%C3%A9er-et-ajouter-une-signature-%C3%A9lectronique-dans-outlook-8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2#picktab=outlook_on_the_web)
 
 ## Message d'absence  
 
-Il faut se rendre sur Zimbra.  
-Dans l'onglet "préférences" , cliquer dans la colonne de gauche sur "hors du bureau".  
-Le message automatique sera paramétrable dans son contenu et sa programmation de date de début à date de fin (optionnel)  
-Il est impératif de l'activer par Zimbra et non par Thunderbird car ce dernier enverra en masse les messages à son démarrage et provoquera une alerte spam chez le prestataire avec une suspension de la messagerie.
+Ouvrir les paramètres Outlook. Aller dans Comptes / Réponses automatiques.
+
+[Lien vers la documentation Outlook](https://support.microsoft.com/fr-fr/office/envoyer-des-r%C3%A9ponses-automatiques-absence-du-bureau-%C3%A0-partir-d-outlook-9742f476-5348-4f9f-997f-5e208513bd67#officeversion=web)
+
+## Que deviennent Thunderbird et mes données?
+
+Ancien utilisateur du client de messagerie Thunderbird, vous avez peut-être :
+
+- des fichiers d'archive mail sur votre PC (ou sur le serveur local de votre service)
+- des contacts et listes de diffusion enregistrés localement sur Thunderbird
+
+Les données qui étaient sur le serveur Zimbra au moment de la migration vers Exchange ont été transférées sur le serveur Exchange.  
+Par contre, les données qui étaient gérées localement par l'application Thunderbird n'ont pas été transférées sur Exchange.
+
+Selon l'usage que vous en faites, les archives mail peuvent :
+- être poussées sur le compte Exchange et être ainsi disponibles pour toute personne qui accède au compte (si la boîte est partagée) quel que soit le client Outlook utilisé, très intéressant pour faire des recherches dans les messages en incluant les archives.
+- rester sous la forme de fichiers MBOX (format des archives Thunderbird) stockées sur votre PC (et sauvegardées par ailleurs). Il faut dans ce cas utiliser Thunderbird pour parcourir les archives. Traitement à réserver aux archives froides, celles qu'on n'ira probablement jamais consulter.
+
+IMPORTANT: Le mécanisme mis à notre disposition pour pousser les archives sur le serveur Exchange est temporaire. A partir du mois de septembre, il ne sera plus possible de copier simplement les archives MBOX vers Exchange. 
+
+### Supprimer le compte zimbra dans Thunderbird et dans le client de messagerie mobile android
+Depuis la migration vers Exchange Online, le compte zimbra ne reçoit plus de mails et n'est plus synchronisé avec Exchange.  
+Il est impératif de ne plus utiliser ce compte, au risque de perdre des messages.    
+Pour en être sûr, supprimez le compte dans Thunderbird et dans votre client de messagerie mobile. Supprimez également les données du compte (mails et évènements mis en cache sur votre PC) pour libérer de l'espace disque sur votre PC. 
+
+### Transférer des archives de courrier
+Il est recommandé de transférer les archives de courrier (au moins celles que vous êtes susceptibles de consulter) depuis votre ou vos profils Thunderbird vers le ou les comptes Exchange correspondants.  
+
+- Un jour où vous avez une bonne connexion internet ...
+- Ouvrir le profil Thunderbird qui contient les dossiers locaux à transférer.
+- Créer une connexion IMAP vers le serveur Exchange comme sur la copie d'écran ci-dessous.
+![](../img/thunderbird2exchange.png)
+- Seuls les dossiers Outlook auxquels vous êtes abonné (click droit sur le dossier racine et "S'abonner") sont visibles, mais ce n'est pas gênant.
+- Déplacer les dossiers locaux (ou les messages d'intérêt) vers un dossier sur le serveur Exchange. 
+- Il peut y avoir des erreurs (lorsque Exchange essaie d'enregistrer un message avant d'avoir créé le dossier qui le contient). Dans ce cas, créer le ou les dossiers voulus sur le serveur exchange, puis retenter le déplacement des messages. 
+- A la fin du traitement, les messages transférés doivent être lisibles depuis Outlook et avoir disparu des dossiers locaux Thunderbird.
+
+### Transférer des contacts
+Procédure en cours de rédaction
+
+### Et après?
+Après avoir transféré l'ensemble de vos données Thunderbird vers Exchange, vous pouvez supprimer le profil Thunderbird (ou demander au SI de le faire pour vous).  
 
 ## Services Zoom
 
