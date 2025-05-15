@@ -113,10 +113,11 @@ Les données qui étaient sur le serveur Zimbra au moment de la migration vers E
 Par contre, les données qui étaient gérées localement par l'application Thunderbird n'ont pas été transférées sur Exchange.
 
 Selon l'usage que vous en faites, les archives mail peuvent :
+
 - être poussées sur le compte Exchange et être ainsi disponibles pour toute personne qui accède au compte (si la boîte est partagée) quel que soit le client Outlook utilisé, très intéressant pour faire des recherches dans les messages en incluant les archives.
 - rester sous la forme de fichiers MBOX (format des archives Thunderbird) stockées sur votre PC (et sauvegardées par ailleurs). Il faut dans ce cas utiliser Thunderbird pour parcourir les archives. Traitement à réserver aux archives froides, celles qu'on n'ira probablement jamais consulter.
 
-IMPORTANT: Le mécanisme mis à notre disposition pour pousser les archives sur le serveur Exchange est temporaire. A partir du mois de septembre, il ne sera plus possible de copier simplement les archives MBOX vers Exchange. 
+__IMPORTANT: Le mécanisme mis à notre disposition pour déplacer les archives sur le serveur Exchange est temporaire. A partir du mois de septembre, il ne sera plus possible de copier simplement les archives MBOX vers Exchange.__
 
 ### Supprimer le compte zimbra dans Thunderbird et dans le client de messagerie mobile android
 Depuis la migration vers Exchange Online, le compte zimbra ne reçoit plus de mails et n'est plus synchronisé avec Exchange.  
@@ -132,14 +133,14 @@ Il est recommandé de transférer les archives de courrier (au moins celles que 
 ![](../img/thunderbird2exchange.png)
 - Seuls les dossiers Outlook auxquels vous êtes abonné (click droit sur le dossier racine et "S'abonner") sont visibles, mais ce n'est pas gênant.
 - Déplacer les dossiers locaux (ou les messages d'intérêt) vers un dossier sur le serveur Exchange. 
-- Il peut y avoir des erreurs (lorsque Exchange essaie d'enregistrer un message avant d'avoir créé le dossier qui le contient). Dans ce cas, créer le ou les dossiers voulus sur le serveur exchange, puis retenter le déplacement des messages. 
+- Il peut y avoir des erreurs (cela se produit lorsque Exchange essaie d'enregistrer un message avant d'avoir créé le dossier qui le contient). Dans ce cas, créer le ou les dossiers voulus sur le serveur exchange, puis retenter le déplacement des messages. 
 - A la fin du traitement, les messages transférés doivent être lisibles depuis Outlook et avoir disparu des dossiers locaux Thunderbird.
 
 ### Transférer des contacts
 Procédure en test, bientôt disponible ici.
 
 ### Et après?
-Après avoir transféré l'ensemble de vos données Thunderbird vers Exchange, vous pouvez supprimer le profil Thunderbird (ou demander au SI de le faire pour vous).  
+Si vous avez transféré l'ensemble de vos données Thunderbird vers Exchange, vous pouvez supprimer définitvement le profil Thunderbird (ou demander au SI de le faire pour vous).  
 
 ## Services Zoom
 
