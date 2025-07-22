@@ -42,6 +42,11 @@ Pour accéder directement à Outlook, suivez le lien [https://outlook.office.com
 ### Configuration d'Outlook pour Windows
 [Configurer et utiliser Outlook](https://support.microsoft.com/fr-fr/office/configurer-et-utiliser-outlook-4636f361-d5e3-4a87-9cd4-382858de55fa)
 
+## Personnaliser la boîte de réception prioritaire
+Outlook trie automatiquement les messages entrants, selon qu'il estime que ces messages sont prioritaires, ou pas.  
+Vous risquez de trouver des messages importants dans la boîte _Autres_ et d'autres messages, sans intérêt, dans la _boîte de réception prioritaire_.  
+Heureusement vous pouvez personnaliser le tri automatique ou même désactiver complètement la fonctionnalité. C'est expliqué [ici](https://support.microsoft.com/fr-fr/office/bo%C3%AEte-de-r%C3%A9ception-prioritaire-pour-outlook-f445ad7f-02f4-4294-a82e-71d8964e3978).
+
 ## Boîtes partagées
 Les boîtes partagées permettent à un groupe d'agents de gérer conjointement un service rendu par messagerie (accueil, autorisations, etc).
 Lorsque vous avez accès à une boîte partagée (voir votre responsable de service), vous pouvez vous connecter [ainsi](https://migration365.mercantour.local/files/webmail_outlook_boites_partagees.pdf).
