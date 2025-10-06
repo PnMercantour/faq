@@ -7,7 +7,7 @@
 
 Ce guide explique comment :
 
-- rechercher un collègue du **Parc national du Mercantour** ou de l’**OFB** via l’application **Outlook mobile**,
+- rechercher un contact du **Parc national du Mercantour** ou de l’**OFB** via l’application **Outlook mobile**,
 
 - enregistrer sa fiche dans vos contacts Android,
 
@@ -15,7 +15,7 @@ Ce guide explique comment :
 
 ---
 
-## 1. Rechercher un collègue dans l’annuaire Exchange
+## 1. Rechercher un contact dans l’annuaire Exchange
 
 1. Ouvrez l’application **Outlook** sur votre téléphone.  
 2. Allez sur l’onglet **Courrier** (en bas de l’écran).  
@@ -29,7 +29,7 @@ Ce guide explique comment :
 
 ## 2. Ajouter une fiche contact
 
-1. Appuyez sur la fiche du collègue trouvé.  
+1. Appuyez sur la fiche du contact trouvé.  
 2. Tout en bas cliquer sur **+ Ajouter aux contacts**.  
 3. Le contact sera visible dans l’application **Contacts** de votre téléphone.
 
@@ -56,13 +56,13 @@ Pour que les fiches Outlook s’affichent dans l’application *Contacts* Androi
    - Sur d’autres (selon la version Android) : allez dans **Paramètres → Comptes à afficher**.  
 3. Sélectionnez ou cochez **Outlook** (ou *Exchange*).  
 
-✅ Vos collègues enregistrés dans Outlook apparaîtront maintenant dans l’application *Contacts* de votre téléphone.
+✅ Vos contacts enregistrés dans Outlook apparaîtront maintenant dans l’application *Contacts* de votre téléphone.
 
 ---
 
 ## 5. Identifier les appels entrants
 
-- Dès qu’un contact est enregistré et que la synchronisation est active, Android reconnaît le numéro et affiche le **nom du collègue** lorsqu’il vous appelle.  
+- Dès qu’un contact est enregistré et que la synchronisation est active, Android reconnaît le numéro et affiche le **nom du contact** lorsqu’il vous appelle.  
 - Le nom apparaît également dans **l’historique des appels**.
 
 💡 **Astuce :**
@@ -70,10 +70,8 @@ Si un appelant n’est pas reconnu, **ajoutez sa fiche dès la fin de l’appel*
 
 ---
 
-## 6. (Optionnel) Pré-enregistrer les collègues fréquents
+## 6. (Optionnel) Pré-enregistrer les contacts fréquents
 
-Vous pouvez :
-- Parcourir l’organigramme dans Outlook pour **enregistrer à l’avance** les collègues avec qui vous échangez souvent.  
-- Cela vous évitera d’avoir à le faire au moment d’un appel.
+Vous pouvez parcourir l’organigramme dans Outlook pour **enregistrer à l’avance** les contacts avec qui vous échangez souvent. Cela vous évitera d’avoir à le faire au moment d’un appel.
 
 ---
