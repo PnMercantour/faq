@@ -48,6 +48,9 @@ Ce guide vous explique comment résoudre en quelques minutes les problèmes cour
 - optimisation de la mémoire
 - installation d'applications
 
+[Guide de synchronisation des contacts](./mobile/contacts.md)
+
+
 # QGIS
 Les tutos QGIS du parc sont accessibles ici : 
 - [https://pnmercantour.github.io/donnees/tutos/](https://pnmercantour.github.io/donnees/tutos/)
