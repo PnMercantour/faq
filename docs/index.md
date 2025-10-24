@@ -1,5 +1,6 @@
 ---
 title: Page d'Accueil
+favicon: ./docs/img/logo_embleme_pnm_quadri_vert.jpg
 hide:
   - path
   - toc

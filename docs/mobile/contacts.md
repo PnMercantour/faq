@@ -4,7 +4,6 @@
 > Cette méthode n’est pas la solution optimale à long terme.  
 > Elle permet toutefois de fonctionner, en attendant que le SI mette en place une synchronisation centralisée des contacts (afin que chaque téléphone dispose automatiquement de l’ensemble des fiches à jour du personnel).
 
-
 Ce guide explique comment :
 
 - rechercher un contact du **Parc national du Mercantour** ou de l’**OFB** via l’application **Outlook mobile**,
@@ -75,3 +74,18 @@ Si un appelant n’est pas reconnu, **ajoutez sa fiche dès la fin de l’appel*
 Vous pouvez parcourir l’organigramme dans Outlook pour **enregistrer à l’avance** les contacts avec qui vous échangez souvent. Cela vous évitera d’avoir à le faire au moment d’un appel.
 
 ---
+
+## 7. (Optionnel) Désactiver la synchronisation avec le compte Google mobiles.pnm@gmail.com
+
+Si votre téléphone est configuré pour synchroniser les contacts depuis le compte Google **mobiles.pnm@gmail.com**, il peut y avoir des doublons ou des conflits avec les contacts Outlook.  
+Pour éviter cela, vous pouvez désactiver la synchronisation de ce compte :
+
+1. Ouvrez **Paramètres** sur votre téléphone Android.  
+2. Allez dans **Comptes et sauvegarde → Gestion des comptes** (ou **Utilisateurs et comptes**, selon le modèle).  
+3. Sélectionnez le compte **mobiles.pnm@gmail.com**.  
+4. Appuyez sur **Synchronisation du compte**.  
+5. Désactivez **Contacts**.  
+
+✅ Vos contacts Outlook resteront synchronisés et visibles dans l’application *Contacts*, sans interférence du compte Google.
+
+💡 Astuce : cette opération n’efface pas les contacts déjà importés depuis ce compte Google, mais empêche toute nouvelle synchronisation.
