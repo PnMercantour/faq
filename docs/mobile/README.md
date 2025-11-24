@@ -17,7 +17,7 @@ La mise à jour régulière du téléphone contribue à la sécurité, à l'amé
 ### Quand mettre à jour le téléphone?
 
 Si votre téléphone est ancien (par exemple les Samsung XCover 4 et 4+), appliquez toutes les mises à jour disponibles.  
-Si votre téléphone est récent (par exemple les Samsung XCover 6 et A34), mettez le à jour jusqu'à la version android 14 qui est compatible avec toutes nos applications. Lorsque android 15 sera disponible, nous vérifierons la compatibilité des applications métier avec ce système d'exploitation avant de vous donner le feu vert pour la mise à jour (irréversible) des téléphones.
+Si votre téléphone est récent (par exemple les Samsung XCover 6 et A34), mettez le à jour jusqu'à la version android 16 qui est compatible avec toutes nos applications. Lorsqu'une nouvelle version d'android sera disponible, nous vérifierons la compatibilité des applications métier avec ce système d'exploitation avant de vous donner le feu vert pour la mise à jour (irréversible) des téléphones.
 
 ### Comment mettre à jour le téléphone?
 

@@ -1,6 +1,6 @@
 # Connexion Wifi au PNM
 
-Deux réseaux Wifi sont configurés dans les sites PNM (valable pour tous les sites, à l'exclusion de Barcelonnette et Allos qui seront équipés prochainement) : pnm-utilisateurs et pnm-visiteurs .
+Deux réseaux Wifi sont configurés dans les sites PNM (valable pour tous les sites, à l'exclusion de Allos qui sera prochainement équipé) : pnm-utilisateurs et pnm-visiteurs .
 IMPORTANT : l'accès au réseau pnm-utilisateurs est strictement réservé aux ordinateurs et mobiles de l'établissement.  
 Utilisez le réseau pnm-visiteurs pour la connexion de vos matériels personnels et pour vos invités.
 
@@ -9,6 +9,32 @@ Utilisez le réseau pnm-visiteurs pour la connexion de vos matériels personnels
 Cette connexion vous donne accès aux serveurs de fichiers, aux applications internes (intranet, agenda, etc) et au réseau intersites (services territoriaux, services OFB, services RIE).  
 Vous devrez vous authentifier avec votre identifiant Windows.  
 N'utilisez ce réseau qu'avec des ordinateurs et mobiles de l'établissement.
+
+### Windows - Installation du profil Wi-Fi
+Le profil Wi-Fi pnm-utilisateurs est installé par le SI sur les nouveaux ordinateurs Windows.  
+Vous pouvez télécharger le profil et l'installer vous-mêmes sur votre ordinateur professionnel.
+
+Télécharger le profil ci-dessous.
+https://configuration.mercantour.local/Wi-Fi-pnm-utilisateurs.xml
+
+
+Ouvrir une fenêtre powershell (t)
+```powershell
+# Pour aller dans le répertoire de téléchargement
+cd .\Downloads\
+# Liste des profils installés
+netsh wlan show profiles
+# Installation du profil pnm-utilisateurs
+netsh wlan add profile Wi-Fi-pnm-utilisateurs.xml
+# Détail du profil pnm-utiisateurs
+netsh wlan show profile pnm-utilisateurs
+# Connexion au profil pnm-utilisateurs
+netsh wlan connect pnm-utilisateurs
+# Déconnexion du profil courant
+netsh wlan disconnect
+# Aide netsh
+netsh wlan help
+```
 
 ### Windows 10
   - Afficher les réseaux wifi ( logo de planète ou wifi en bas à droite ), si l'ordinateur est connecté à "mercantour" se déconnecter et s'assurer que "Se connecter automatiquement" est décoché
@@ -31,12 +57,14 @@ N'utilisez ce réseau qu'avec des ordinateurs et mobiles de l'établissement.
   - Cliquer sur "OK" puis sur "Se connecter"
 
 ### Android
-  - Indiquez votre identifiant Windows (en général première lettre du prénom puis nom), sans préciser le domaine
+  - Indiquez votre adresse mail
   - Saisissez votre mot de passe Windows.
+Il est recommandé de contrôler également les paramètres avancés. Sélectionner `Afficher plus` puis :
+  - Type d'adresse MAC: Adresse MAC du téléphone  
     
 ## Connexion au réseau pnm-visiteurs
 
-Vos visiteurs peuvent se connecter en wifi sur le réseau pnm-visiteurs via un ordinateur ou un smartphone. Vous pouvez également utiliser ce réseau avec vos téléphones personnels.  
+Vos visiteurs peuvent connecter leur ordinateur ou smartphone au réseau wifi pnm-visiteurs. Vous pouvez également utiliser ce réseau avec vos téléphones personnels.  
 Ce réseau permet d'accéder à Internet. Les serveurs de fichiers et applications internes et les imprimantes ne sont pas accessibles par cette connexion.
 
 Le mot de passe d'accès à ce réseau est diffusé en interne (demandez au SI si besoin).
