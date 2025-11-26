@@ -155,3 +155,26 @@ Si vous avez transféré l'ensemble de vos données Thunderbird vers Exchange, v
 ## Services Zoom
 
 [Procédure de connexion à Zoom et services associés.](./Zoom.md)
+
+
+## Gestion des groupes de distribution
+
+Les groupes de distribution permettent d'envoyer un email à plusieurs destinataires en utilisant une seule adresse. Au Parc national du Mercantour, ces groupes facilitent la communication entre services et équipes. A l'heure actuelle un groupe de distribution ne peut contenir que des membres qui ont une adresse dans le domaine Parc nationaux / OFB.
+
+### Ajouter des membres à un groupe de distribution
+
+**Dans Outlook pour Windows ou Outlook pour le web :**
+
+1. Aller dans les paramètres (icône engrenage en haut à droite)
+
+2. Onglet "Général" → "Groupes de distribution"
+3. Cliquer sur l'hyperlien "ce portail"
+4. Le lien ouvre une fenêtre dans votre navigateur
+5. Onglet "Groupes dont je suis propriétaire"
+6. Cliquer sur le groupe à modifier
+7. Onglet "Membres"
+8. Vous pouvez alors ajouter / supprimer des membres au groupe de distribution
+
+### Création d'un groupe
+
+- S'adresser au SI pour créer un groupe de distribution
