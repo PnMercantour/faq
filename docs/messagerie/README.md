@@ -178,3 +178,7 @@ Les groupes de distribution permettent d'envoyer un email à plusieurs destinata
 ### Création d'un groupe
 
 - S'adresser au SI pour créer un groupe de distribution
+
+### Personnalisation d'un groupe de distribution existant
+
+Pour personnaliser la liste des destinataires d'un message à partir d'un groupe (par exemple pour exclure temporairement un membre du groupe à qui on veut faire une surprise), il suffit de sélectionner le groupe, puis de cliquer sur le symbole + à gauche du groupe pour remplacer le groupe par ses membres (éventuellement des sous-groupes).
