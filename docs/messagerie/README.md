@@ -31,7 +31,7 @@ Pour tous, __Outlook pour le web est l'application recommandée par le SI__.
 ### Outlook pour le web
 Pour utiliser Outlook pour le web, il suffit de vous connecter à votre compte Microsoft 365 avec votre adresse email professionnelle comme identifiant et votre mot de passe Windows comme mot de passe.
 
-https://m365.cloud.microsoft
+[https://m365.cloud.microsoft](https://m365.cloud.microsoft)
 
 Accédez aux applications par le lanceur d'applications (en haut à gauche de l'écran), sélectionnez Outlook.
 
@@ -106,6 +106,12 @@ Pour configurer sa signature et apprendre comment l'utiliser avec Outlook, rende
 Ouvrir les paramètres Outlook. Aller dans Comptes / Réponses automatiques.
 
 [Lien vers la documentation Outlook](https://support.microsoft.com/fr-fr/office/envoyer-des-r%C3%A9ponses-automatiques-absence-du-bureau-%C3%A0-partir-d-outlook-9742f476-5348-4f9f-997f-5e208513bd67#officeversion=web)
+
+## Utilisation à l'étranger
+Vous ne pouvez pas accéder au serveur de messagerie depuis une adresse IP à l'étranger. C'est une mesure de sécurité qui s'impose à nous, non négociable.  
+L'accès à la messagerie depuis l'Italie est permis à titre dérogatoire et nominatif. Sont concernés les agents des services territoriaux frontaliers et certains agents du siège. Contactez le SI si vous avez ce besoin.
+
+Si vous devez voyager dans un autre pays et que vous avez un besoin impératif de conserver l'accès à votre messagerie professionnelle, merci de contacter le SI.
 
 ## Que deviennent Thunderbird et mes données?
 
