@@ -1,6 +1,6 @@
 # Connexion Wifi au PNM
 
-Deux réseaux Wifi sont configurés dans les sites PNM (valable pour tous les sites, à l'exclusion de Allos qui sera prochainement équipé) : pnm-utilisateurs et pnm-visiteurs .
+Deux réseaux Wifi sont configurés dans les sites PNM (valable pour tous les sites) : pnm-utilisateurs et pnm-visiteurs .
 IMPORTANT : l'accès au réseau pnm-utilisateurs est strictement réservé aux ordinateurs et mobiles de l'établissement.  
 Utilisez le réseau pnm-visiteurs pour la connexion de vos matériels personnels et pour vos invités.
 
@@ -66,7 +66,8 @@ https://learn.microsoft.com/fr-fr/windows-server/administration/windows-commands
   - Indiquez votre adresse mail
   - Saisissez votre mot de passe Windows.
 Il est recommandé de contrôler également les paramètres avancés. Sélectionner `Afficher plus` puis :
-  - Type d'adresse MAC: Adresse MAC du téléphone  
+  - Type d'adresse MAC: Adresse MAC du téléphone
+  - Si on vous demande un certificat, répondez `pas de certificat`
     
 ## Connexion au réseau pnm-visiteurs
 
@@ -74,6 +75,8 @@ Vos visiteurs peuvent connecter leur ordinateur ou smartphone au réseau wifi pn
 Ce réseau permet d'accéder à Internet. Les serveurs de fichiers et applications internes et les imprimantes ne sont pas accessibles par cette connexion.
 
 Le mot de passe d'accès à ce réseau est diffusé en interne (demandez au SI si besoin).
+
+Il s'agit d'un portail captif, vous devrez accepter les conditions d'accès en ouvrant votre navigateur.
 
 ## Problèmes de connexion
 
