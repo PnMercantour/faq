@@ -16,7 +16,7 @@ Vous pouvez télécharger le profil et l'installer vous-mêmes sur votre ordinat
 
 Télécharger le profil ci-dessous.
 
-[https://configuration.mercantour.local/Wi-Fi-pnm-utilisateurs.xml]()
+[https://configuration.mercantour.local/Wi-Fi-pnm-utilisateurs.xml](https://configuration.mercantour.local/Wi-Fi-pnm-utilisateurs.xml)
 
 Ouvrir une console powershell, sélectionner et exécuter les commandes utiles dans la liste ci-dessous:
 
@@ -38,9 +38,9 @@ netsh wlan disconnect
 netsh wlan help
 ```
 
-Plus d'information sur la commande netsh:
+Plus d'information sur l'utilisation de la commande [netsh](https://learn.microsoft.com/fr-fr/windows-server/administration/windows-commands/netsh) sur le site Microsoft
 
-https://learn.microsoft.com/fr-fr/windows-server/administration/windows-commands/netsh
+
 
 ### Windows 10
   - Afficher les réseaux wifi ( logo de planète ou wifi en bas à droite ), si l'ordinateur est connecté à "mercantour" se déconnecter et s'assurer que "Se connecter automatiquement" est décoché
