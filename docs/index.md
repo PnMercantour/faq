@@ -29,6 +29,9 @@ Créez un formulaire d'enquête en ligne sans compétences techniques particuli�
 
 [FAQ de Geonature et d'Occtax mobile](./geonature/README.md).
 
+## Impression
+[Guide pour l'impression de documents](./Windows/printer.md)
+
 ## Messagerie
 
 Pour tout savoir sur la [configuration de la messagerie, le partage d'agendas et de contacts et l'application interne d'agenda partagé](./messagerie/README.md).
