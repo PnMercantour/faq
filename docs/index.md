@@ -32,6 +32,13 @@ Créez un formulaire d'enquête en ligne sans compétences techniques particuli�
 ## Impression
 [Guide pour l'impression de documents](./Windows/printer.md)
 
+## LaSuite
+
+La direction interministérielle du numérique (DINUM) met à notre disposition [LaSuite](https://lasuite.numerique.gouv.fr/), une suite cohérente d'outils conçus pour aider les agents publics à créer, organiser, décider et collaborer en toute confiance. 
+
+Au Parc, nous utilisons en particulier [Tchap](https://tchap.numerique.gouv.fr/) pour la messagerie instantanée sécurisée et [FranceTransfert](https://francetransfert.numerique.gouv.fr/upload) pour l'envoi et la réception de fichiers volumineux.
+
+
 ## Messagerie
 
 Pour tout savoir sur la [configuration de la messagerie, le partage d'agendas et de contacts et l'application interne d'agenda partagé](./messagerie/README.md).
