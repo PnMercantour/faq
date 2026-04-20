@@ -59,6 +59,12 @@ Ce guide vous explique comment résoudre en quelques minutes les problèmes cour
 - optimisation de la mémoire
 - installation d'applications
 
+[Appels WIFI](https://www.assistance.bouyguestelecom.fr/s/article/vowifi-appel-envoi-sms-wifi)
+Il n'y a pas ou peu de réseau téléphonique mobile lorsque vous êtes au bureau (ou chez vous)?  
+Vous pouvez utiliser la liaison filaire (fibre ou ADSL) et la connexion WIFI de votre réseau local pour véhiculer les appels mobiles.  
+Il suffit de suivre les instructions de configuration android (ou IOS) ci-dessus.  
+
+
 [Guide de synchronisation des contacts](./mobile/contacts.md)
 
 
