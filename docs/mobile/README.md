@@ -68,6 +68,28 @@ Plusieurs utilisateurs ont constaté que l'application e-mail utilise beaucoup d
 
 Installer Zoom depuis le playstore google
 
+### Tchap
+
+Installer Tchap depuis le playstore google
+
+### OruxMaps
+
+Brancher le smartphone sur l'USB du PC et autoriser la gestion des données.  
+Récupérer l'apk OruxMaps sur le site interne https://configuration.mercantour.local/apps_mobile et le copier sur le smartphone dans le répertoire de téléchargement.  
+
+ou télécharger et enregistrer le fichier directement depuis le navigateur du smartphone.  
+
+Ouvrir l'explorateur de fichiers du téléphone et aller dans le répertoire de téléchargement.  
+
+Lancer l'installation du fichier apk (une autorisation peut être demandée).  
+
+Lancer l'application pour qu'elle crée les répertoires d'accueil sur le smartphone.  
+
+Copier les fichiers du modèle numérique de terrain (DEM) depuis https://configuration.mercantour.local/apps_mobile/DEM vers le répertoire DEM d'OruxMaps sur le smartphone.  
+Copier les fonds de carte et couches (fichiers .mbtiles et unities.geojson) depuis https://configuration.mercantour.local/fonds_de_carte  vers le répertoire Mapfiles d'OruxMaps sur le smartphone.  
+
+Relancer OruxMaps et sélectionner les fonds de carte Offline.
+
 ### Geonature
 
 [Installation et configuration d'occtax mobile](../geonature/README.md#occtax-mobile)

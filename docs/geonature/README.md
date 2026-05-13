@@ -4,7 +4,7 @@ la gestion fonctionnelle de GeoNature est sous la responsabilité des référent
 
 ## Je n'ai pas de compte GeoNature
 
-Adressez-vous à un référent GeoNature (CGP) ou au SI pour demander l'ouverture d'un compte.
+Adressez-vous à un référent GeoNature (CGP) pour demander l'ouverture d'un compte.
 
 ## J'ai un compte GeoNature mais mes droits d'accès sont insuffisants
 
