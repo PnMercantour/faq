@@ -17,7 +17,7 @@ Le SI créera le compte et vous enverra par mail un lien contenant le **mot de p
 
 > ⚠️ **Important — à propos du lien reçu :**
 >
-> - Accessible uniquement depuis le **réseau local** (Ethernet, Wi-Fi `pnm_utilisateurs` ou VPN)
+> - Accessible uniquement depuis le **réseau local** (Ethernet, Wi-Fi `pnm-utilisateurs` ou VPN)
 > - Disponible uniquement **à partir de la date d'arrivée** de l'agent
 > - **À usage unique** : n'ouvrir le lien qu'au moment de la première connexion
 
