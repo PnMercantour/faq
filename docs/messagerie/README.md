@@ -162,6 +162,20 @@ Si vous avez transféré l'ensemble de vos données Thunderbird vers Exchange, v
 
 [Procédure de connexion à Zoom et services associés.](./Zoom.md)
 
+### Activer le plugin Zoom d'outlook
+
+1. Ouvrir le calendrier Outlook.
+2. Cliquer sur **Créer un nouvel évènement**.
+3. Dans la barre en haut, cliquer sur **Zoom**, puis sur **Paramètres**.
+4. Dans le volet qui s'affiche à gauche, vérifier que **Zoom.us** apparaît à droite de **Se connecter**.
+5. En bas du volet, cliquer sur **SSO**, puis sur **Je ne connais pas le domaine de la société**.
+6. Saisir votre adresse mail professionnelle du Parc : `prenom.nom@mercantour-parcnational.fr`.
+7. Si une fenêtre **Sécurité Windows** vous demandant login et mot de passe apparaît, la fermer et attendre l'ouverture de la page de connexion OFB.
+8. Renseigner l'adresse mail et le mot de passe, cocher **Rester connecté(e)**, puis cliquer sur **Connexion**.
+
+Vous êtes maintenant connecté à votre compte Zoom. Vous pouvez ajouter une réunion Zoom lors de la création d'un évènement.
+
+
 
 ## Gestion des groupes de distribution
 
