@@ -4,14 +4,15 @@ Voici quelques recommandations pour un usage durable du téléphone mobile qui v
 
 ## Forfait voix et données
 En règle générale, vous avez un forfait voix et données, illimité avec quelques spécificités : 
+
 - appels illimités vers les fixes et mobiles en zone Europe (et Amérique du Nord)
 - données mobiles dans une enveloppe de 25 Go par mois en France et Europe réglementaire (dont Italie), avec accès au réseau 5G
 - débit réduit à 256kbits/s au delà des 25 Go, jusqu'à la fin du mois courant.
 
-Merci de ne pas abuser du forfait données pour votre usage privé et de conserver votre téléphone pleinement fonctionnel pour son usage professionnel.
+Merci de conserver votre téléphone pleinement fonctionnel pour son usage professionnel en n'abusant pas du forfait données pour votre usage privé.
 
-Lors de vos déplacements à l'étranger hors zone Europe, laissez votre téléphone en France ou désactivez les services payants (voix et données) car les coûts sont astronomiques.
-En particulier, le bateau vers la Corse ou la Sardaigne, ce sont des communications par satellite, c'est très très cher. Coupez impérativement votre téléphone avant de monter à bord.
+Lors de vos déplacements à l'étranger hors zone Europe, laisser votre téléphone en France ou désactiver les services payants (voix et données) car les coûts sont astronomiques.
+En particulier, le bateau vers la Corse ou la Sardaigne, ce sont des communications par satellite, c'est très très cher. Couper impérativement votre téléphone avant de monter à bord.
 
 Un nouveau marché de téléphonie mobile sera mis en place en fin d'année. A cette occasion, les options seront harmonisées entre les utilisateurs, et le roaming en zone internationale payante sera bloqué.
 En attendant, soyez attentifs si vous emportez le téléphone à l'étranger. Lorsque vous vous connectez à un réseau mobile étranger (ou bateau/satellite), un message de l'opérateur vous prévient des conditions tarifaires. Parfois c'est déjà trop tard pour les premiers euros, mais laisser son téléphone allumé sans raison professionnelle après avoir reçu le message d'avertissement vous rend potentiellement responsable des coûts associés.
