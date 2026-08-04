@@ -57,6 +57,43 @@ Voir également:
 - [la liste des boîtes partagées du Parc](https://migration365.mercantour.local/shared_mailboxes.html),
 - [la liste des délégations de boîtes du Parc](https://migration365.mercantour.local/mail_delegates.html).
 
+### Configurer une réponse automatique sur une boîte partagée Outlook
+
+#### Prérequis
+
+- Avoir accès à la boîte partagée (en tant que membre) ou disposer des droits nécessaires pour la convertir en compte associé.
+
+#### Étapes
+
+##### 1. Ouvrir les paramètres
+
+Cliquez sur l'icône en forme d'**engrenage** en haut à droite d'Outlook pour ouvrir le menu **Paramètres**.
+
+##### 2. Vérifier si la boîte partagée est déjà accessible
+
+Allez dans l'onglet **Comptes**, puis **Vos comptes**.
+
+- Si l'adresse de la boîte partagée sur laquelle vous souhaitez configurer la réponse automatique apparaît dans cette liste, passez directement à l'**étape 4**.
+- Si elle n'apparaît pas, poursuivez avec l'étape suivante.
+
+##### 3. Ajouter la boîte partagée à vos comptes
+
+1. Allez dans **Partagé avec moi**.
+2. Repérez le compte concerné et déroulez la petite flèche à côté de son nom.
+3. Cliquez sur **Convertir**.
+
+> ⚠️ Cette action nécessite d'avoir les droits nécessaires sur la boîte partagée. Si vous ne les avez pas, contactez votre administrateur.
+
+Une fois la conversion effectuée, le compte doit apparaître dans **Vos comptes** (voir étape 2).
+
+##### 4. Configurer la réponse automatique
+
+1. Allez dans **Réponses automatiques**.
+2. Dans le champ **Ces paramètres s'appliquent à**, sélectionnez le compte de la boîte partagée concernée.
+3. Activez les réponses automatiques et rédigez votre message (vous pouvez définir un message différent pour les destinataires internes et externes, ainsi qu'une plage de dates si besoin).
+4. Cliquez sur **Enregistrer** pour valider.
+
+
 ## Partage d'agenda
 - Comment afficher un calendrier perso dans outlook à côté de mon calendrier pro?
 - Comment afficher mon agenda pro dans mon application calendrier perso?
@@ -202,10 +239,3 @@ Les groupes de distribution permettent d'envoyer un email à plusieurs destinata
 ### Personnalisation d'un groupe de distribution existant
 
 Pour personnaliser la liste des destinataires d'un message à partir d'un groupe (par exemple pour exclure temporairement un membre du groupe à qui on veut faire une surprise), il suffit de sélectionner le groupe, puis de cliquer sur le symbole + à gauche du groupe pour remplacer le groupe par ses membres (éventuellement des sous-groupes).
-
-## Productivité
-### Dicter ses mails avec Outlook
-Aprés avoir cliquer sur "Nouveau courrier" on peut dicter un mail sur Outlook en cliquant sur l'option "Dicter" symbolisé par un micro. 
-Il faudra autoriser l'application à utiliser votre micro si cela est demandé.
-
-![](Screen-Outlook-Dicter.png) 
