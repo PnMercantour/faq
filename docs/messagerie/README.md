@@ -245,7 +245,10 @@ Pour personnaliser la liste des destinataires d'un message à partir d'un groupe
 
 ### Dicter ses mails avec Outlook
 
-Aprés avoir cliqué sur "Nouveau courrier" on peut dicter un mail sur Outlook en cliquant sur l'option "Dicter" symbolisé par un micro. 
+Après avoir cliqué sur "Nouveau courrier" on peut dicter un mail sur Outlook en cliquant sur l'option "Dicter" symbolisé par un micro. 
 Il faudra autoriser l'application à utiliser votre micro si cela est demandé.
 
 ![](Screen-Outlook-Dicter.png) 
+
+
+[Plus d'informations sur la dictée dans Outlook](https://support.microsoft.com/fr-fr/accessibility/outlook/dictate-your-emails-in-outlook)
