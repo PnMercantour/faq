@@ -1,8 +1,8 @@
 # Connexion Wifi au PNM
 
 Deux réseaux Wifi sont configurés dans les sites PNM (valable pour tous les sites) : pnm-utilisateurs et pnm-visiteurs .
-IMPORTANT : l'accès au réseau pnm-utilisateurs est strictement réservé aux ordinateurs et mobiles de l'établissement.  
-Utilisez le réseau pnm-visiteurs pour la connexion de vos matériels personnels et pour vos invités.
+!!! danger "Rappel de sécurité très important"
+    L'accès au réseau pnm-utilisateurs est strictement réservé aux ordinateurs et mobiles fournis par le SI. Utilisez le réseau pnm-visiteurs pour la connexion de vos matériels personnels et pour vos invités.
 
 ## Connexion au réseau pnm-utilisateurs
 
