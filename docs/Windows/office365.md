@@ -31,7 +31,21 @@ Une fois connecté, vous êtes connecté dans toutes les applications Office, vo
 !!! tip "Changement de mot de passe"
     Si vous changez votre mot de passe Windows, Office peut vous demander de vous reconnecter. Utilisez alors votre nouveau mot de passe.
 
-## 3. Où enregistrer mes documents ?
+## 3. Quel logiciel pour quel type de fichier ?
+
+Au Parc, deux suites bureautiques coexistent. Pour éviter les problèmes de mise en forme, ouvrez chaque fichier avec la suite adaptée à son format :
+
+| Type de fichier | Extensions | Logiciel à utiliser |
+|-----------------|------------|---------------------|
+| Fichiers **OpenDocument** | `.odt`, `.ods`, `.odp` | **LibreOffice** |
+| Fichiers **Office** | `.docx`, `.xlsx`, `.pptx` | **Microsoft Office** (Word, Excel, PowerPoint) |
+
+!!! info "Choix du format à la première ouverture"
+    Lors de la première ouverture d'une application Office, une fenêtre peut vous demander de **choisir le format de fichier par défaut**. Sélectionnez **Office Open XML** (formats `.docx`, `.xlsx`, `.pptx`) et **non** OpenDocument : les fichiers OpenDocument restent à ouvrir avec LibreOffice.
+
+> Privilégiez la création de nouveaux fichiers au format de fichier **Office** et essayez de faire migrer vos anciens documents vers ces formats.
+
+## 4. Où enregistrer mes documents ?
 
 Puisque OneDrive et SharePoint ne sont pas utilisables, enregistrez vos fichiers comme d'habitude :
 
@@ -41,7 +55,7 @@ Puisque OneDrive et SharePoint ne sont pas utilisables, enregistrez vos fichiers
 
 Pour travailler à plusieurs sur un même document, vous pouvez utiliser l'outil [Fichiers](https://lasuite.numerique.gouv.fr/produits/fichiers) de la DINUM, utilisable via votre compte ProConnect.
 
-## 4. Un problème ?
+## 5. Un problème ?
 
 | Problème | Solution |
 |----------|----------|

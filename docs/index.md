@@ -68,6 +68,11 @@ Il suffit de suivre les instructions de configuration android (ou IOS) ci-dessus
 [Guide de synchronisation des contacts](./mobile/contacts.md)
 
 
+## Office (Word, Excel, PowerPoint)
+
+[Installation et utilisation de la suite Office (Microsoft 365)](./Windows/office365.md)
+
+
 # QGIS
 Les tutos QGIS du parc sont accessibles ici : 
 - [https://pnmercantour.github.io/donnees/tutos/](https://pnmercantour.github.io/donnees/tutos/)
