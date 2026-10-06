@@ -7,85 +7,177 @@ hide:
   - navigation
 ---
 
-# Questions fréquentes sur le système d'information du Parc national du Mercantour.
+<div class="pnm-hero" markdown>
 
-Les informations contenues dans cette FAQ sont destinées aux agents du Parc national du Mercantour.  
-Si vous êtes un visiteur et souhaitez obtenir des informations ou données vous pouvez nous contacter via 
-[le formulaire de contact](https://mercantour-parcnational.fr/fr/formulaire-contact)
+![Parc national du Mercantour](img/logo_embleme_pnm_quadri_vert.jpg){ .pnm-hero__logo }
 
+# FAQ du système d'information
 
-## Base de données et tutos
-La documentation disponible sur les données internes du Parc national du Mercantour, ainsi que les tutos pour les utiliser sont accessibles ici: [https://pnmercantour.github.io/donnees/bd_pnm/](https://pnmercantour.github.io/donnees/)
+Toutes les réponses aux questions fréquentes sur l'informatique du **Parc national du Mercantour** : messagerie, poste de travail, réseau, outils métier…
 
+[:material-magnify: Utilisez la recherche en haut de page](#){ .md-button .md-button--primary onclick="document.querySelector('[data-md-toggle=search]').checked=true; document.querySelector('.md-search__input').focus(); return false;" }
 
-## Formulaires
+</div>
 
-Créez un formulaire d'enquête en ligne sans compétences techniques particulières avec l'outil formulaires de l'OFB
+!!! info "Information"
+    Les informations de cette FAQ sont destinées aux agents du Parc national du Mercantour. Si vous êtes un visiteur, vous pouvez nous contacter via [le formulaire de contact](https://mercantour-parcnational.fr/fr/formulaire-contact).
 
-- [https://formulaires.ofb.fr/fonctionnalites](https://formulaires.ofb.fr/fonctionnalites)
+## :material-desktop-classic: Mon poste de travail
 
+<div class="grid cards" markdown>
 
-## Geonature
+-   :material-microsoft-office: **Office (Word, Excel, PowerPoint)**
 
-[FAQ de Geonature et d'Occtax mobile](./geonature/README.md).
+    ---
 
-## Impression
-[Guide pour l'impression de documents](./Windows/printer.md)
+    Installation, connexion et formats de fichiers de la suite Microsoft 365.
 
-## LaSuite
+    [:octicons-arrow-right-24: Suite Office](./Windows/office365.md)
 
-La direction interministérielle du numérique (DINUM) met à notre disposition [LaSuite](https://lasuite.numerique.gouv.fr/), une suite cohérente d'outils conçus pour aider les agents publics à créer, organiser, décider et collaborer en toute confiance. 
+-   :material-account-circle: **Mon profil Windows**
 
-Au Parc, nous utilisons en particulier [Tchap](https://tchap.numerique.gouv.fr/) pour la messagerie instantanée sécurisée et [FranceTransfert](https://francetransfert.numerique.gouv.fr/upload) pour l'envoi et la réception de fichiers volumineux.
+    ---
 
+    Sessions Windows qui ne s'ouvrent pas sur le bon environnement : profil fixe ou itinérant.
 
-## Messagerie
+    [:octicons-arrow-right-24: Guide du profil](./Windows/README.md)
 
-Pour tout savoir sur la [configuration de la messagerie, le partage d'agendas et de contacts et l'application interne d'agenda partagé](./messagerie/README.md).
+-   :material-account-plus: **Nouvel arrivant**
 
-## Mon profil Windows
-[Guide de maintenance du profil Windows](./Windows/README.md)
+    ---
 
-Sessions Windows qui ne s'ouvrent pas sur le bon environnement.
+    Demande de création de compte, première connexion et configuration de la messagerie.
 
-## Mon téléphone mobile
+    [:octicons-arrow-right-24: Création de compte](./Windows/creation_compte.md)
 
-[Guide de maintenance du téléphone mobile](./mobile/README.md)
+-   :material-printer: **Impression**
 
-Votre smartphone fonctionne mal, votre mémoire est saturée?
-Ce guide vous explique comment résoudre en quelques minutes les problèmes courants.
+    ---
 
-- mises à jour
-- optimisation de la mémoire
-- installation d'applications
+    Imprimer sur l'imprimante de votre site et que faire quand elle ne répond plus.
 
-[Appels WIFI](https://www.assistance.bouyguestelecom.fr/s/article/vowifi-appel-envoi-sms-wifi)
-Il n'y a pas ou peu de réseau téléphonique mobile lorsque vous êtes au bureau (ou chez vous)?  
-Vous pouvez utiliser la liaison filaire (fibre ou ADSL) et la connexion WIFI de votre réseau local pour véhiculer les appels mobiles.  
-Il suffit de suivre les instructions de configuration android (ou IOS) ci-dessus.  
+    [:octicons-arrow-right-24: Guide d'impression](./Windows/printer.md)
 
+-   :material-wifi: **Wifi**
 
-[Guide de synchronisation des contacts](./mobile/contacts.md)
+    ---
 
+    Se connecter aux réseaux Wifi du Parc.
 
-## Office (Word, Excel, PowerPoint)
+    [:octicons-arrow-right-24: Connexion Wifi](./reseau/README.md)
 
-[Installation et utilisation de la suite Office (Microsoft 365)](./Windows/office365.md)
+-   :material-vpn: **VPN**
 
+    ---
 
-# QGIS
-Les tutos QGIS du parc sont accessibles ici : 
-- [https://pnmercantour.github.io/donnees/tutos/](https://pnmercantour.github.io/donnees/tutos/)
+    Accéder aux services internes du Parc depuis l'extérieur des locaux.
 
-## Resana
+    [:octicons-arrow-right-24: Connexion via VPN](./reseau/VPN.md)
 
-[Utilisation de l'environnement de partage de documents / édition partagée Resana](./resana).
+</div>
 
+## :material-forum: Communiquer et collaborer
 
-## Wifi
+<div class="grid cards" markdown>
 
-[Procédure de connexion aux réseaux Wifi](./reseau/README.md)
+-   :material-email: **Messagerie**
 
-## Zoom
+    ---
 
-[Procédure de connexion aux services Zoom](./messagerie/Zoom.md).
+    Configuration de la messagerie, partage d'agendas et de contacts, agenda partagé interne.
+
+    [:octicons-arrow-right-24: Guide de la messagerie](./messagerie/README.md)
+
+-   :material-video: **Zoom**
+
+    ---
+
+    Procédure de connexion aux services Zoom.
+
+    [:octicons-arrow-right-24: Utiliser Zoom](./messagerie/Zoom.md)
+
+-   :material-file-document-edit: **Resana**
+
+    ---
+
+    Partage de documents et édition partagée.
+
+    [:octicons-arrow-right-24: Utiliser Resana](./resana/README.md)
+
+-   :material-shield-lock: **LaSuite**
+
+    ---
+
+    Outils de la DINUM : [Tchap](https://tchap.numerique.gouv.fr/) pour la messagerie instantanée sécurisée et [FranceTransfert](https://francetransfert.numerique.gouv.fr/upload) pour les fichiers volumineux.
+
+    [:octicons-arrow-right-24: Découvrir LaSuite](https://lasuite.numerique.gouv.fr/)
+
+</div>
+
+## :material-cellphone: Mon téléphone mobile
+
+<div class="grid cards" markdown>
+
+-   :material-cellphone-cog: **Maintenance du téléphone**
+
+    ---
+
+    Votre smartphone fonctionne mal, votre mémoire est saturée ? Mises à jour, optimisation de la mémoire, installation d'applications.
+
+    [:octicons-arrow-right-24: Guide du téléphone](./mobile/README.md)
+
+-   :material-contacts: **Synchronisation des contacts**
+
+    ---
+
+    Retrouver vos contacts professionnels sur votre téléphone.
+
+    [:octicons-arrow-right-24: Guide des contacts](./mobile/contacts.md)
+
+-   :material-cellphone-wireless: **Appels WIFI**
+
+    ---
+
+    Pas ou peu de réseau mobile au bureau (ou chez vous) ? Passez vos appels par la fibre ou l'ADSL et le Wifi.
+
+    [:octicons-arrow-right-24: Configurer les appels Wifi](https://www.assistance.bouyguestelecom.fr/s/article/vowifi-appel-envoi-sms-wifi)
+
+</div>
+
+## :material-database: Données et cartographie
+
+<div class="grid cards" markdown>
+
+-   :material-leaf: **GeoNature**
+
+    ---
+
+    FAQ de GeoNature et d'Occtax mobile.
+
+    [:octicons-arrow-right-24: FAQ GeoNature](./geonature/README.md)
+
+-   :material-database-search: **Base de données et tutos**
+
+    ---
+
+    Documentation des données internes du Parc et tutoriels pour les utiliser.
+
+    [:octicons-arrow-right-24: Documentation des données](https://pnmercantour.github.io/donnees/)
+
+-   :material-map: **QGIS**
+
+    ---
+
+    Les tutoriels QGIS du Parc.
+
+    [:octicons-arrow-right-24: Tutos QGIS](https://pnmercantour.github.io/donnees/tutos/)
+
+-   :material-form-select: **Formulaires**
+
+    ---
+
+    Créez un formulaire d'enquête en ligne sans compétences techniques avec l'outil formulaires de l'OFB.
+
+    [:octicons-arrow-right-24: Formulaires OFB](https://formulaires.ofb.fr/fonctionnalites)
+
+</div>
