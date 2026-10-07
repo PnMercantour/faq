@@ -8,7 +8,7 @@ Les agents qui disposent d'un compte Zoom peuvent organiser des visio-conférenc
 L'application **Zoom Workplace** est en principe installée sur tous les ordinateurs du Parc. Si ce n'est pas le cas, vous pouvez utiliser [Zoom version web](https://app.zoom.us/wc) (voir [la documentation officielle](https://support.zoom.com/hc/fr/article?id=zm_kb&sysparm_article=KB0064261)) et contacter le SI pour demander l'installation de l'application.
 
 !!! warning "Anticipez !"
-    N'attendez pas la dernière minute pour nous appeler au sujet d'une réunion prévue de longue date. Vérifiez dès la planification de la réunion que Zoom fonctionne sur votre poste, et testez-le si besoin avec une [réunion de test](https://support.zoom.com/hc/fr/article?id=zm_kb&sysparm_article=KB0063307).
+    N'attendez pas la dernière minute pour nous appeler au sujet d'une réunion prévue de longue date. Vérifiez dès la planification de la réunion que Zoom fonctionne sur votre poste, et testez-le si besoin avec une [réunion de test](https://support.zoom.com/hc/fr/article?id=zm_kb&sysparm_article=KB0063322).
 
 
 ## Connexion
