@@ -1,0 +1,51 @@
+/* Page d'accueil */
+.pnm-hero {
+  text-align: center;
+  padding: 2rem 1rem;
+  margin-bottom: 1.5rem;
+  border-radius: 0.8rem;
+  background: linear-gradient(135deg, var(--md-primary-fg-color) 0%, #e8f5e9 100%);
+}
+
+.pnm-hero h1 {
+  margin: 0.5rem 0;
+  color: #1b3a2a;
+  font-weight: 700;
+}
+
+.pnm-hero p {
+  max-width: 40rem;
+  margin: 0.5rem auto 1.2rem;
+  color: #1b3a2a;
+}
+
+.pnm-hero .pnm-hero__logo {
+  height: 6rem;
+  width: auto;
+  border-radius: 0.5rem;
+}
+
+[data-md-color-scheme="slate"] .pnm-hero {
+  background: linear-gradient(135deg, #1f3a4d 0%, #1e2a24 100%);
+}
+
+[data-md-color-scheme="slate"] .pnm-hero h1,
+[data-md-color-scheme="slate"] .pnm-hero p {
+  color: #fff;
+}
+
+.md-typeset .grid.cards > ul > li,
+.md-typeset .grid.cards > ol > li {
+  border-radius: 0.6rem;
+  transition: transform 0.15s, box-shadow 0.15s;
+}
+
+.md-typeset .grid.cards > ul > li:hover,
+.md-typeset .grid.cards > ol > li:hover {
+  transform: translateY(-3px);
+}
+
+.md-typeset h2 .twemoji {
+  color: var(--md-primary-fg-color--dark);
+  margin-right: 0.3rem;
+}
