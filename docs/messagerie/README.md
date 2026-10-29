@@ -148,7 +148,7 @@ Ouvrir les paramètres Outlook. Aller dans Comptes / Réponses automatiques.
 Vous ne pouvez pas accéder au serveur de messagerie depuis une adresse IP à l'étranger. C'est une mesure de sécurité qui s'impose à nous, non négociable.  
 L'accès à la messagerie depuis l'Italie est permis à titre dérogatoire et nominatif. Sont concernés les agents des services territoriaux frontaliers et certains agents du siège. Contactez le SI si vous avez ce besoin.
 
-Si vous devez voyager dans un autre pays et que vous avez un besoin impératif de conserver l'accès à votre messagerie professionnelle, merci de contacter le SI.
+Si vous devez voyager dans un autre pays et que vous avez un besoin impératif de conserver l'accès à votre messagerie professionnelle, merci de consulter cette page : [Demande d'accès à Microsoft 365 depuis l'étranger.](./acces_etranger.md)
 
 ## Que deviennent Thunderbird et mes données?
 
@@ -198,8 +198,6 @@ Si vous avez transféré l'ensemble de vos données Thunderbird vers Exchange, v
 ## Services Zoom
 
 [Procédure de connexion à Zoom et services associés.](./Zoom.md)
-
-[Demande d'accès à Microsoft 365 depuis l'étranger.](./acces_etranger.md)
 
 ### Activer le plugin Zoom d'outlook
 
