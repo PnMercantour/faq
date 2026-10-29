@@ -199,6 +199,8 @@ Si vous avez transféré l'ensemble de vos données Thunderbird vers Exchange, v
 
 [Procédure de connexion à Zoom et services associés.](./Zoom.md)
 
+[Demande d'accès à Microsoft 365 depuis l'étranger.](./acces_etranger.md)
+
 ### Activer le plugin Zoom d'outlook
 
 1. Ouvrir le calendrier Outlook.
